@@ -17,14 +17,19 @@
 - **Citizen's Charter**: [bacolodcity.gov.ph/citizens-charter-2/](https://bacolodcity.gov.ph/citizens-charter-2/)
 - **BPLO**: [bacolodcity.gov.ph/business-permits-and-licensing-division/](https://bacolodcity.gov.ph/business-permits-and-licensing-division/)
 - **City Health Office**: [bacolodcity.gov.ph/sanitary-and-non-sanitary-permit-requirements/](https://bacolodcity.gov.ph/sanitary-and-non-sanitary-permit-requirements/)
+- **Health Program**: [bacolodcity.gov.ph/bacolod-city-comprehensive-health-program/](https://bacolodcity.gov.ph/bacolod-city-comprehensive-health-program/)
 - **BENRO (Environment)**: [bacolodcity.gov.ph/bacolod-environment-and-natural-resources/](https://bacolodcity.gov.ph/bacolod-environment-and-natural-resources/)
+- **Trabaho sa PESO**: [bacolodcity.gov.ph/trabaho-sa-peso-bacolod/](https://bacolodcity.gov.ph/trabaho-sa-peso-bacolod/)
 - **Online Services**: [onlineservices.bacolodcity.gov.ph](https://onlineservices.bacolodcity.gov.ph/)
+- **Download Forms**: [bacolodcity.gov.ph/downloable-forms/](https://bacolodcity.gov.ph/downloable-forms/)
 
-### Facebook Pages (for announcements)
+### Official Facebook Pages
 
-- **PESO Bacolod City** - scholarship & job announcements
-- **Bacolod City Government** - official news
-- **Serbisyo Patrol** - service updates
+- **Bacolod City Government**: [facebook.com/baabordo](https://www.facebook.com/baabordo)
+- **Serbisyo Patrol**: [facebook.com/serbisyopatrolbacolod](https://www.facebook.com/serbisyopatrolbacolod)
+- **PESO Bacolod City**: [facebook.com/PESOBacolodCity](https://www.facebook.com/PESOBacolodCity)
+- **Bacolod BTTMD (Traffic)**: [facebook.com/BacolodBTTMD](https://www.facebook.com/BacolodBTTMD)
+- **DepEd Bacolod City**: [facebook.com/DepEdBacolodCity](https://www.facebook.com/DepEdBacolodCity)
 
 ### Hotlines
 
