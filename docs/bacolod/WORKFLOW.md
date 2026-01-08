@@ -26,12 +26,12 @@
 ### Official Facebook Pages
 
 - **PESO Bacolod LGU**: [facebook.com/PesoBacolodLGU](https://www.facebook.com/PesoBacolodLGU)
-- **Bacolod City Government**: _(verify actual page name)_
-- **Serbisyo Patrol**: _(verify actual page name)_
-- **Bacolod BTTMD (Traffic)**: _(verify actual page name)_
-- **DepEd Bacolod City**: _(verify actual page name)_
 
-> ⚠️ **DO NOT make up links. Only add verified URLs.**
+> ⚠️ **Other FB pages** (Bacolod City Government, Serbisyo Patrol, BTTMD, DepEd Bacolod) - search on Facebook directly to find official pages. Do not use unverified links.
+
+### Other Official Sites
+
+- **DepEd Bacolod City Division**: [depedbacolod.net](https://www.depedbacolod.net/)
 
 ### Hotlines
 
