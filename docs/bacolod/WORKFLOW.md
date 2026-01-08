@@ -4,78 +4,100 @@
 
 **Focus: Get the site working with Bacolod content**
 
-## 🎯 Phase 1: Scrape Key Info
+---
 
-Scrape what we need from bacolodcity.gov.ph:
+## 🔗 Official Sources (ALWAYS USE THESE)
 
-- Contact info (phones, emails, addresses)
-- Department names
-- Service descriptions (general)
+### Primary Source
 
-**Save to:** `docs/bacolod/BACOLOD-DATA-COLLECTION.md`
+- **Bacolod City Government**: [bacolodcity.gov.ph](https://bacolodcity.gov.ph)
 
-## 🎯 Phase 2: Update Site Content
+### Department Pages
 
-Update the actual content files with Bacolod info:
+- **Citizen's Charter**: [bacolodcity.gov.ph/citizens-charter-2/](https://bacolodcity.gov.ph/citizens-charter-2/)
+- **BPLO**: [bacolodcity.gov.ph/business-permits-and-licensing-division/](https://bacolodcity.gov.ph/business-permits-and-licensing-division/)
+- **City Health Office**: [bacolodcity.gov.ph/sanitary-and-non-sanitary-permit-requirements/](https://bacolodcity.gov.ph/sanitary-and-non-sanitary-permit-requirements/)
+- **BENRO (Environment)**: [bacolodcity.gov.ph/bacolod-environment-and-natural-resources/](https://bacolodcity.gov.ph/bacolod-environment-and-natural-resources/)
+- **Online Services**: [onlineservices.bacolodcity.gov.ph](https://onlineservices.bacolodcity.gov.ph/)
 
-- `content/services/health-services/*.md`
-- `content/services/business/*.md`
-- `content/services/education/*.md`
-- etc.
+### Facebook Pages (for announcements)
 
-**This is what matters - what shows on the site!**
+- **PESO Bacolod City** - scholarship & job announcements
+- **Bacolod City Government** - official news
+- **Serbisyo Patrol** - service updates
 
-## 📝 Git Workflow
+### Hotlines
 
-**Only commit when:**
-
-- ✅ Content files updated (what shows on site)
-- ✅ Site tested and working
-- ❌ Not every doc change
-- ❌ Not every scraping session
-
-```bash
-# After updating actual content
-git add content/services/
-git commit -m "feat: Update health services with Bacolod info"
-
-# Test first!
-npm run dev
-```
-
-## 🔄 Work Process
-
-1. **Scrape** - Get info from Bacolod site (save notes)
-2. **Update** - Change content files
-3. **Test** - Check localhost:5173
-4. **Commit** - If it looks good
-5. **Repeat** - Next category
-
-## 🎯 What Matters
-
-**Important:**
-
-- ✅ Site content (what users see)
-- ✅ Working links
-- ✅ Correct info displayed
-
-**Less Important:**
-
-- ❌ Perfect documentation
-- ❌ Tracking every scrape
-- ❌ Detailed notes
-
-## 📊 Success = Site Works
-
-When done:
-
-- Site shows Bacolod info
-- No broken links
-- Looks professional
-- Ready to deploy
+- **Main**: (034) 434-9122
+- **Hotlines Page**: [bacolodcity.gov.ph/hotlines/](https://bacolodcity.gov.ph/hotlines/)
 
 ---
 
-**Keep it simple. Focus on the site, not the docs.**
+## 🎯 Content Workflow
+
+### 1. Scrape
+
+- Get info from bacolodcity.gov.ph
+- Check news articles for recent updates
+- Save to `docs/bacolod/BACOLOD-DATA-COLLECTION.md`
+
+### 2. Update
+
+- Change content files in `content/services/`
+- Keep info general if specific details unavailable
+- **ALWAYS add source at bottom of file**
+
+### 3. Verify
+
+- Cross-check with official site
+- Test on localhost:5173
+
+### 4. Commit
+
+- Only when content is verified and working
+
+---
+
+## 📝 Source Attribution (REQUIRED)
+
+**Every content file MUST have source at the bottom:**
+
+```markdown
+---
+
+**Source:** [Article Title](https://bacolodcity.gov.ph/specific-article/) — Date
+```
+
+Examples:
+
+- News article: `[Bacolod LGU Releases...](https://bacolodcity.gov.ph/bacolod-lgu-...) — December 24, 2025`
+- Department page: `[Citizen's Charter](https://bacolodcity.gov.ph/citizens-charter-2/)`
+- General: `[bacolodcity.gov.ph](https://bacolodcity.gov.ph)`
+
+---
+
+## 🔄 Git Workflow
+
+```bash
+# After updating content
+git add content/services/
+git commit -m "feat: Update [category] with Bacolod info
+
+- What changed
+- Source: bacolodcity.gov.ph/specific-page"
+```
+
+---
+
+## 📊 Progress
+
+- ✅ Phase 1: Health Services (4 files)
+- ✅ Phase 2: Business Services (4 files)
+- ✅ Phase 3: Education Services (4 files)
+- ⬜ Phase 4: Waste Management (4 files)
+
+---
+
+**Keep it simple. Always cite sources. Focus on the site.**
 
 Last updated: January 8, 2026
