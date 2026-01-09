@@ -1105,3 +1105,246 @@ Please click the tabs below to view and download the requirements and forms.
 - [Facebook Page](https://www.facebook.com/plugins)
   - Verification: Linked from .gov.ph
   - Confidence: High
+
+## Bacolod Environment and Natural Resources | Bacolod City Government
+
+**URL:** https://bacolodcity.gov.ph/bacolod-environment-and-natural-resources/
+**Scraped:** 2026-01-09
+
+### Content
+
+To download the list of requirements in PDF format, please click the DOWNLOAD button below:
+
+### Requirements
+
+- Bacolod Environment and Natural Resources
+- Bureau of Fire Protection
+- Business Permits and License Division
+- City Department of Agriculture
+- City Health Office
+- Office of the Building Officials (OBO)
+
+### Contact Information
+
+- **Phone:** (034) 434-9122, (034) 432-7196
+- **Email:** mayorggasataya@bacolodcity.gov.ph
+
+### Portal Links
+
+- [Home](https://bacolodcity.gov.ph/) - Government Link
+- [GOVPH](http://www.gov.ph/) - Government Link
+- [Quick Facts](https://bacolodcity.gov.ph/quick-facts/) - Government Link
+- [Awards and Recognitions](https://bacolodcity.gov.ph/awards-and-recognitions/) - Government Link
+- [Accredited Tourism Establishments](https://bacolodcity.gov.ph/?page_id=1588) - Government Link
+- [2017-2026](https://bacolodcity.gov.ph/comprehensive-land-use-plan/) - Government Link
+- [Disaster Risk Reduction And Management Plan 2023-2025](https://bacolodcity.gov.ph/disaster-risk-reduction-and-management-plan/) - Government Link
+- [Bids and Awards](https://bacolodcity.gov.ph/bids-and-awards) - Government Link
+- [Public-Private Partnership](https://bacolodcity.gov.ph/public-private-partnership/) - Government Link
+- [Full Disclosure Policy](https://bacolodcity.gov.ph/full-disclosure-policy-2022/) - Government Link
+- [Link](https://bacolodcity.gov.ph/our-mayor/) - Government Link
+- [Vice Mayor](https://bacolodcity.gov.ph/vice-mayor/) - Government Link
+- [City Councilors](https://bacolodcity.gov.ph/city-councilors/) - Government Link
+- [Barangay Officials](https://bacolodcity.gov.ph/barangay-officials/) - Government Link
+- [Departments](https://bacolodcity.gov.ph/departments/) - Government Link
+- [Link](https://bacolodcity.gov.ph/city-ordinance/) - Government Link
+- [More Contacts](https://bacolodcity.gov.ph/contact-us/) - Government Link
+- [Hotlines](https://bacolodcity.gov.ph/hotlines/) - Government Link
+- [Citizen’s Charter](https://bacolodcity.gov.ph/citizens-charter-2/) - Government Link
+- [Link](https://onlineservices.bacolodcity.gov.ph/) - Online Services
+- [Link](https://bacolodcity.gov.ph/?page_id=422) - Government Link
+- [Bacolod City Comprehensive Health Program](https://bacolodcity.gov.ph/bacolod-city-comprehensive-health-program/) - Government Link
+- [Trabaho sa PESO Bacolod](https://bacolodcity.gov.ph/trabaho-sa-peso-bacolod/) - Government Link
+- [Download Forms](https://bacolodcity.gov.ph/downloable-forms/) - Forms
+- [Link](https://bacolodcity.gov.ph/bacolod-environment-and-natural-resources/) - Government Link
+- [Bureau of Fire Protection](https://bacolodcity.gov.ph/bureau-of-fire-protection/) - Government Link
+- [Business Permits and License Division](https://bacolodcity.gov.ph/business-permits-and-licensing-division/) - Permits
+- [City Department of Agriculture](https://bacolodcity.gov.ph/city-department-of-agriculture/) - Government Link
+- [City Health Office](https://bacolodcity.gov.ph/sanitary-and-non-sanitary-permit-requirements/) - Permits
+- [Office of the Building Officials (OBO)](https://bacolodcity.gov.ph/office-of-the-building-officials-obo/) - Government Link
+- [Apply for Business Incentives](https://bacolodcity.gov.ph/apply-for-business-incentives/) - Government Link
+- [Ease of Doing Business](https://bacolodcity.gov.ph/cost-of-doing-business/) - Government Link
+- [Department of Local Economic Development and Investment Promotions](https://bacolodcity.gov.ph/department-of-local-economic-development-and-investment-promotions/) - Government Link
+- [Data Policy](https://bacolodcity.gov.ph/privacy-and-protection-policy/) - Government Link
+- [Bacolod_Environment_Natural_Resources_Office](https://bacolodcity.gov.ph/bacolod-environment-and-natural-resources/bacolod_environment_natural_resources_office/) - Government Link
+- [Download](https://bacolodcity.gov.ph/wp-content/uploads/2023/11/Bacolod_Environment_Natural_Resources_Office.pdf) - Government Link
+- [Link](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbacolodcity.gov.ph%2Fbacolod-environment-and-natural-resources%2F) - Government Link
+- [Link](http://twitter.com/intent/tweet?text=Bacolod%20Environment%20and%20Natural%20Resources&url=https%3A%2F%2Fbacolodcity.gov.ph%2Fbacolod-environment-and-natural-resources%2F) - Government Link
+- [Link](https://bacolodcity.gov.ph/advance-renewal-application-for-business-permit/) - Application
+- [Link](https://bacolodcity.gov.ph/waste-collection-schedule/) - Government Link
+- [Link](https://bacolodcity.gov.ph/notice-of-awards/) - Government Link
+- [Link](https://bacolodcity.gov.ph/bac-procurement-e-board-2/) - Government Link
+- [Link](https://bacolodcity.gov.ph/barangay-information-network/) - Forms
+- [Link](https://bacolodcity.gov.ph/?page_id=1069) - Government Link
+- [BACOLOD CITY RECOVERY AND RECYCLING CENTER](https://bacolodcity.gov.ph/wp-content/uploads/2022/06/484075185_1181442576707861_8968782091981563417_n.jpg) - Government Link
+- [CITY HEALTH COMPLEX - AT 20% COMPLETION AS OF FEB 2025](https://bacolodcity.gov.ph/wp-content/uploads/2022/06/475810963_1156835665835219_7519979364223613245_n.jpg) - Government Link
+- [OLD CITY HALL AT 39.70% COMPLETION AS OF FEB 2025](https://bacolodcity.gov.ph/wp-content/uploads/2022/06/475843533_1156835635835222_815623427333979610_n.jpg) - Government Link
+- [MULTI-PURPOSE BUILDING WITH SKATE PARK AT 95% COMPLETION AS OF FEB 2025](https://bacolodcity.gov.ph/wp-content/uploads/2022/06/475869360_1156835645835221_6004403964739377937_n.jpg) - Government Link
+- [LEGISLATIVE BUILDING AT 56% COMPLETION AS OF FEB 2025](https://bacolodcity.gov.ph/wp-content/uploads/2022/06/476020844_1156835602501892_4074412770681752409_n.jpg) - Government Link
+- [COLISEUM AT 70.01% COMPLETION AS OF FEB 2025](https://bacolodcity.gov.ph/wp-content/uploads/2022/06/476105256_1156835695835216_7424896059792152995_n.jpg) - Government Link
+- [ROMANITO MARAVILLA NATIONAL HIGH SCHOOL ATHLETES' DORMITORY AT 80% COMPLETION AS OF FEB 2025](https://bacolodcity.gov.ph/wp-content/uploads/2022/06/476168050_1156835612501891_2294969074608073735_n.jpg) - Government Link
+- [BHA prepares for the turnover of Asenso Yuhum units under the 4PH Program](https://bacolodcity.gov.ph/wp-content/uploads/2022/06/07082024_05.jpg) - Government Link
+- [Rehabilitation and Improvement of Old City Hall Building Gro](https://bacolodcity.gov.ph/wp-content/uploads/2024/08/08072024_03-1920x1281.jpg) - Government Link
+- [Link](https://bacolodcity.gov.ph/bagong-pilipinas-200x160/) - Government Link
+- [Link](https://bacolodcity.gov.ph/transparency-seal-posted-2/) - Government Link
+- [Link](https://bacolodcity.gov.ph/bacolod-seal-post/) - Government Link
+- [Link](https://bacolodcity.gov.ph/sp-new-post/) - Government Link
+
+### Facebook Pages
+
+- [Facebook Page](https://www.facebook.com/sharer)
+  - Verification: Linked from .gov.ph
+  - Confidence: High
+- [Facebook Page](https://www.facebook.com/dialog)
+  - Verification: Linked from .gov.ph
+  - Confidence: High
+- [Facebook Page](https://www.facebook.com/photo)
+  - Verification: Linked from .gov.ph
+  - Confidence: High
+- [Facebook Page](https://www.facebook.com/bcdpublicinfooffice)
+  - Verification: Linked from .gov.ph
+  - Confidence: High
+- [Facebook Page](https://www.facebook.com/profile.php)
+  - Verification: Linked from .gov.ph
+  - Confidence: High
+- [Facebook Page](https://www.facebook.com/plugins)
+  - Verification: Linked from .gov.ph
+  - Confidence: High
+
+### Downloads
+
+- [Download](https://bacolodcity.gov.ph/wp-content/uploads/2023/11/Bacolod_Environment_Natural_Resources_Office.pdf) (PDF)
+
+## WASTE COLLECTION SCHEDULE | Bacolod City Government
+
+**URL:** https://bacolodcity.gov.ph/waste-collection-schedule/
+**Scraped:** 2026-01-09
+
+### Content
+
+• BRGY ALIJIS (ALIJIS RD)• ALIJIS ROAD FROM ARANETA TO COCA COLA• CIRCUMFERENCIAL ROAD FROM ALIJIS ROAD TO ARANETA (CEGASCO)• DOÑA CARMEN MAINROAD• PANAAD ROAD• BANGGA ATOMS• ADELA MARKET• MOPPING MAIN ROAD HANDUMANAN FROM CIRCUMFERENTIAL UP TO HANDUMANAN MARKET ACCESS RD
+
+• BRGY SUM-AG (ARANETA ST. TO VILLAROSA ST)• BRGY TANGUB (ARANETA AVE)• ARANETA STREET• (FROM ALIJIS RD. TO BACOLOD BAGO BOUNDARY)• SUM-AG PUBLIC MARKET• PUNTA TAYTAY• LOGISTICS• SELECTA• HVG WAREHOUSE• KTM• ST. FRANCIS BLDG.• RED RIBBON• SUGARLAND HOTEL• TOYOTA TANGUB• JOLLIBEE WAREHOUSE• VERA STREET• VILLAROSA STREET
+
+• BURGOS STREET (MCDO EAST MRF) (FROM CIRCUMFERENCIAL RD. TO LACSON ST.)• LACSON STREET (FROM BURGOS ST. TO 25TH ST.)• BS AQUINO AVE. FROM LACSON STREET TO LOPEZ JAENA• 6TH STREET / NARRA STREET (FROM LACSON ST. TO CL MONTELIBANO)• HILADO STREET FROM BURGOS ST. TO BS AQUINO• LN AGUSTIN FROM HILADO STREET TO LOPEZ JAENA ST.• TINDALO STREET• YAKAL STREET• IPIL-IPIL STREET• MOLAVE STREET• FY MANALO STREET (FROM HILADO ST. TO BURGOS ST.)&#8221;• RED CROSS• STONE HILLS• CAFE BOBS BS AQUINO & CAFE BOBS LACSON• JOLLIBEE BS AQUINO• OUTDOOR MASTER 10TH STREET• MEDICAL PLAZA• MAN PLAZA ROAD• 7TH TO 23RD STREET
+
+• BRGY MANDALAGAN (CIRCUMFERENTIAL ROAD)• BRGY BATA (CIRCUMFERENTIAL ROAD)• BRGY BANAGO (CIRCUMFERENTIAL ROAD)• CIRCUMFERENTIAL ROAD FROM BANGA METAL ALIJIS TO PUNO BANAGO VISE VERSA• RIVERSIDE MEDICAL CENTER• BACOLOD QUEEN OF MERCY HOSPITAL• BANGGA SAWMILL• BRGY BATA BRGY• FOODMAN• MISSIONARY BANAGO
+
+• BRGY 10 (BURGOS ST)• BRGY 12 (GALO ST)• BRGY 11 (LOCSIN ST)• BRGY 13 (LUZURIAGA ST)• BRGY 15 (GATUSLAO ST)• BRGY 37 (LACSON ST)• BRGY 38 (LOCSIN ST)• BRGY 39 (HERNAEZ ST)• ARANETA STREET (FROM ALIJIS RD.TO BACOLOD PUBLIC PLAZA)• GONZAGA STREET (FROM SAN JUAN ST. TO LACSON ST.)• GATUSLAO STREET (FROM SAN SEBASTIAN ST. TO HERNAEZ ST.)• RIZAL STREET (FROM LACSON ST. TO FARTHER FERRERO)• FATHER FERRERO (FROM BAY CENTER BULAKAN TO BRGY 8)• BURGOS STREET (FROM FATHER FERRERO TO LOCSIN ST.)• SAN JUAN STREET (FROM BURGOS ST. TO ROSARIO ST.)• SAN SEBASTIAN STREET (FROM PALANCA ST. TO LACSON ST.)• LUZURIAGA STREET (FROM PALANCA ST. TO LACSON ST.)• CUADRA STREET (FROM GATUSLAO ST. TO LACSON ST.)• BALESTEROS STREET (FROM ARANETA ST. TO GATUSLAO ST.)• NUEVA STREET (FROM GATUSLAO ST. TO LOCSIN ST.)• GALO STREET (FROM SAN JUAN ST. TO LACSON ST.)• BONIFACIO STREET (FROM LUZURIAGA ST. TO GONZAGA ST.)• LOCSIN STREET (FROM SAN SEBASTIAN ST. TO BURGOS ST.)• PALANCA STREET (FROM SAN SEBASTIAN TO BURGOS ST.)• BURGOS STREET (FROM LACSON ST. PALANCA ST.)
+
+• COTTAGE ROAD FROM GATUSLAO ST. TO LACSON ST.• SOUTH CAPITOL ROAD FROM LACSON ST. TO SAN JUAN ST.• AGUINALDO STREET FROM NORTH CAPITOL ROAD TO 27TH ST.• 12 STREET TO 22ND STREET (LACSON LEFT SIDE)• BS AQUINO DR. (FROM SAN JUAN STREET TO LACSON STREET)• 23RD STREET TO 27TH STREET• GATUSLAO STREET (FROM BURGOS STREET TO ALTURA RESIDENCES)• ALTURA RESIDENCES• BRGY 3 INNER/BARACUDA/BANGRUS/TUNA• BRGY 1 INNER• BRGY 5 INNER• BRGY 6 INNER• STA CLARA MAIN• SUYSING
+
+• LACSON STREET(FROM ALIJIS ROAD TO NORTHBOUND TERMINAL)• WEST TOWN HOTEL• ROBINSONS MANDALAGAN• CONVERGYS• PNB LACSON• IKTHUS• CHRISTIAN ACADEMY• PAU DE ARCO
+
+• BRGY VILLAMONTE (LOPEZ JAENA ST, BS AQUINO DRIVE, CL MONTELIBANO, LASALLE AVE, MARGARITA ST, HONORATA DRIVE, MACOPA ST, KAWAYAN ST, HERVIAS DRIVE,)• BRGY MANDALAGAN (LACSON ST)• (LOPUES MANDALAGAN) BURI ROAD (CITYMALL TO BRGY HALL MANDALAGAN)• MARGARITA ST (FROM BURI TO LA SALLE AVE)• LASALLE AVE (FROM MARGARITA TO GALLARDO ST)• YLAC ST (FROM CL MONTELIBANO TO STATION 4 BURGOS)• LOPEZ JAENA ST (FROM BS AQUINO TO BURGOS) (ROBINSON TRIANGLE) (DOCTORS HOSPITAL) (JOLLIBEE LA SALLE) (MCDO LA SALLE)• B.S AQUINO (FROM TRIANGLE TO BURGOS ST V.V)• BUGNAY ST.• MACOPA• ATIS• KAWAYAN• KAMACHILI• PALO SANTOL• KAMUNSIL BACK OF MORMONS• KAMUNSIL BACK OF LASALLE• BUGNAY ST.• TAMBIS• MERZCI MRF• TRIUMPH• SANICARE• ROBINSON TRIANGLE• BOBS MACOPA MRF
+
+• BRGY 40 (LIZARES ST)• HERNAEZ STREET FROM CORAZON AQUINO TO MABINI STREET• MABINI STREET (TUL-ANAN TAMBAKAN)• LIZARES STREET (FROM ARANETA ST. TO HERNAEZ ST.)• HERNAEZ STREET (FROM LIZARES ST. MABINI ST.)• MABINI STREET (FROM HERNAEZ ST. TO LIZARES ST.)• LOPEZ JAENA STREET (FROM LIZARES ST. TO MERCEDES ST.)• A. MERCEDES COR LOPEZ JAENA STREET (LIBERTAD MARKET)• UNIVERSITY OF SAINT LA SALLE MRF• ST SCHOLASTICAS ACEDEMY ( ST. SCHO MRF)• SLAM GLASS• BAMC• GOLDENFIELD COMPLEX• TELETECH• CYBER CENTER MRF
+
+• BRGY TACULING (MAGSAYSAY AVE, MAGSAYSAY AVE, HERNAEZ ST)• BRGY 40 (CORAZON AQUINO AVE)• BRGY MANSILINGAN (MANSILINGAN RD)• BRGY VISTA ALEGRE• BRGY HANDUMANAN (HANDUMANAN RD)• MAGSAYSAY ST (ARANETA TO TACULING)• CORAZON AQUINO (MAGSAYSAY TO BACK UP 6)• P. HERNAEZ ST (BACK UP 6 T0 7)• BCC ACTIVITY CENTER• MARKET PLACE, LUXUR, BCPO, GOLDEN FORTUNE, U-SMILE LOCONAN• MOPPING FROM VISTA ALEGRE MAIN ROAD TO ELEMENTARY SCHOOL• CERES PASALUBONG, MERZI PLANT• VILLA NENA• VILLA OTO• VISTA MONTANA/VISTA VERDE• ICM• CAMELLA SOUTH ALIJIS
+
+• BRGY 41 (GONZAGA ST)• BRGY 31 (SAN SEBASTIAN ST)• BRGY 28 (LUZURIAGA ST)• BRGY 27 (RIZAL ST)• BRGY 26 (JOSE RIZAL ST)• BRGY 23 (GALO ST)• BRGY 30 (LUZURIAGA ST)• BRGY 29 (MABINI ST)• BRGY 25 (GONZAGA ST)• BRGY 24 (JOSE RIZAL ST)• BRGY 22 (GALO ST)• BRGY 20 (BURGOS ST)• BRGY 19 (RAMOS ST)• NAPOLEON ST (FROM HERNAEZ TO LOPEZ JAENA)• LOPEZ JAENA ST. (FROM HERNAEZ TO BURGOS ST)• LUZURIAGA ST. (FROM LACSON TO LOPEZJAENA)• BURGOS ST. (FROM LACSON TO CIRCUM RD)• ST. FRANCIS ST. (FROM CIRCUM TO GONZAGA)• GONZAGA ST (FROM ST. FRANCIS TO LACSON)• ROSARIO ST. (FROM LACSON TO LOPEZ JAENA)• SANSEBASTIAN ST. (FROM LACSON TO LOPEZJAENA)• RIZAL ST. (FROM LACSON TO LOPEZJAENA)• GALO ST. (FROM LACSON TO LOPEZJAENA)• HILADO ST. (FROM BURGOS TO RIZAL)
+
+• BRGY VILLAMONTE (BURGOS AVE)• ESTEFANIA (BURGOS AVE)• GRANADA (BURGOS ST)• ALANGILAN (GRANADA-ALANGILAN ROAD)• BURGOS ST. (FROM LOPUES EAST (CIRCUMFERENCIALRD) TO ALLES ELEM. SCHOOL (BRGY GRANADA)• SOFIA GONZAGA STREET (FROM BURGOS ST. TO MARAVILLA ELEM. SCHOOL (BRGY ESTEFANIA)• CL MONTELIBANO (FROM CIRDUMFERENCIAL RD. TO SOFIA GONZAGA)• PAGLAUM STREET (FROM BURGOS ST. TO CL. MONTELIBANO)• BENARES STREET (FROM PAGLAUM TO CL MONTELIBANO)• CL MONTELIBANO (FROM CIRDUMFERENCIAL RD. TO SOFIA GONZAGA)• PAGLAUM STREET (FROM BURGOS ST. TO CL. MONTELIBANO)• BENARES STREET (FROM PAGLAUM TO CL MONTELIBANO)• SAN MIGUEL (MRF)• ROBINSONS EAST• SAVEMORE ESTEFANIA• METRO BACOLOD HOSPITAL• TRINITY (MRF) MONDAY & THURSDAY• PALM HAVEN• ROLLING HILLS MEMORIAL PARK
+
+Please click the image to view the details.
+
+Please click the image to view the details.
+
+### Requirements
+
+- Bacolod Environment and Natural Resources
+- Bureau of Fire Protection
+- Business Permits and License Division
+- City Department of Agriculture
+- City Health Office
+- Office of the Building Officials (OBO)
+
+### Contact Information
+
+- **Phone:** (034) 434-9122, (034) 432-7196
+- **Email:** mayorggasataya@bacolodcity.gov.ph
+
+### Portal Links
+
+- [Home](https://bacolodcity.gov.ph/) - Government Link
+- [GOVPH](http://www.gov.ph/) - Government Link
+- [Quick Facts](https://bacolodcity.gov.ph/quick-facts/) - Government Link
+- [Awards and Recognitions](https://bacolodcity.gov.ph/awards-and-recognitions/) - Government Link
+- [Accredited Tourism Establishments](https://bacolodcity.gov.ph/?page_id=1588) - Government Link
+- [2017-2026](https://bacolodcity.gov.ph/comprehensive-land-use-plan/) - Government Link
+- [Disaster Risk Reduction And Management Plan 2023-2025](https://bacolodcity.gov.ph/disaster-risk-reduction-and-management-plan/) - Government Link
+- [Bids and Awards](https://bacolodcity.gov.ph/bids-and-awards) - Government Link
+- [Public-Private Partnership](https://bacolodcity.gov.ph/public-private-partnership/) - Government Link
+- [Full Disclosure Policy](https://bacolodcity.gov.ph/full-disclosure-policy-2022/) - Government Link
+- [Link](https://bacolodcity.gov.ph/our-mayor/) - Government Link
+- [Vice Mayor](https://bacolodcity.gov.ph/vice-mayor/) - Government Link
+- [City Councilors](https://bacolodcity.gov.ph/city-councilors/) - Government Link
+- [Barangay Officials](https://bacolodcity.gov.ph/barangay-officials/) - Government Link
+- [Departments](https://bacolodcity.gov.ph/departments/) - Government Link
+- [Link](https://bacolodcity.gov.ph/city-ordinance/) - Government Link
+- [More Contacts](https://bacolodcity.gov.ph/contact-us/) - Government Link
+- [Hotlines](https://bacolodcity.gov.ph/hotlines/) - Government Link
+- [Citizen’s Charter](https://bacolodcity.gov.ph/citizens-charter-2/) - Government Link
+- [Link](https://onlineservices.bacolodcity.gov.ph/) - Online Services
+- [Link](https://bacolodcity.gov.ph/?page_id=422) - Government Link
+- [Bacolod City Comprehensive Health Program](https://bacolodcity.gov.ph/bacolod-city-comprehensive-health-program/) - Government Link
+- [Trabaho sa PESO Bacolod](https://bacolodcity.gov.ph/trabaho-sa-peso-bacolod/) - Government Link
+- [Download Forms](https://bacolodcity.gov.ph/downloable-forms/) - Forms
+- [Bacolod Environment and Natural Resources](https://bacolodcity.gov.ph/bacolod-environment-and-natural-resources/) - Government Link
+- [Bureau of Fire Protection](https://bacolodcity.gov.ph/bureau-of-fire-protection/) - Government Link
+- [Business Permits and License Division](https://bacolodcity.gov.ph/business-permits-and-licensing-division/) - Permits
+- [City Department of Agriculture](https://bacolodcity.gov.ph/city-department-of-agriculture/) - Government Link
+- [City Health Office](https://bacolodcity.gov.ph/sanitary-and-non-sanitary-permit-requirements/) - Permits
+- [Office of the Building Officials (OBO)](https://bacolodcity.gov.ph/office-of-the-building-officials-obo/) - Government Link
+- [Apply for Business Incentives](https://bacolodcity.gov.ph/apply-for-business-incentives/) - Government Link
+- [Ease of Doing Business](https://bacolodcity.gov.ph/cost-of-doing-business/) - Government Link
+- [Department of Local Economic Development and Investment Promotions](https://bacolodcity.gov.ph/department-of-local-economic-development-and-investment-promotions/) - Government Link
+- [Data Policy](https://bacolodcity.gov.ph/privacy-and-protection-policy/) - Government Link
+- [EAST SCHOOLS](https://bacolodcity.gov.ph/wp-content/uploads/2025/02/EAST-SCHOOLS.jpg) - Government Link
+- [SOUTH SCHOOLS (2)](https://bacolodcity.gov.ph/wp-content/uploads/2025/02/SOUTH-SCHOOLS-2.jpg) - Government Link
+- [SOUTH SCHOOLS](https://bacolodcity.gov.ph/wp-content/uploads/2025/02/SOUTH-SCHOOLS.jpg) - Government Link
+- [WEST SCHOOLS](https://bacolodcity.gov.ph/wp-content/uploads/2025/02/WEST-SCHOOLS.jpg) - Government Link
+- [Link](https://bacolodcity.gov.ph/waste-collection-schedule/brgy-handumanan-6/#main) - Government Link
+- [Link](https://bacolodcity.gov.ph/waste-collection-schedule/brgy-handumanan-3-3/#main) - Government Link
+- [Link](https://bacolodcity.gov.ph/waste-collection-schedule/brgy-handumanan-2-3/#main) - Government Link
+- [Link](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbacolodcity.gov.ph%2Fwaste-collection-schedule%2F) - Government Link
+- [Link](http://twitter.com/intent/tweet?text=WASTE%20COLLECTION%20SCHEDULE&url=https%3A%2F%2Fbacolodcity.gov.ph%2Fwaste-collection-schedule%2F) - Government Link
+- [Link](https://bacolodcity.gov.ph/waste-collection-schedule/) - Government Link
+- [Link](https://bacolodcity.gov.ph/advance-renewal-application-for-business-permit/) - Application
+- [Link](https://bacolodcity.gov.ph/notice-of-awards/) - Government Link
+- [Link](https://bacolodcity.gov.ph/bac-procurement-e-board-2/) - Government Link
+- [Link](https://bacolodcity.gov.ph/barangay-information-network/) - Forms
+- [Link](https://bacolodcity.gov.ph/?page_id=1069) - Government Link
+- [BACOLOD CITY RECOVERY AND RECYCLING CENTER](https://bacolodcity.gov.ph/wp-content/uploads/2022/06/484075185_1181442576707861_8968782091981563417_n.jpg) - Government Link
+- [CITY HEALTH COMPLEX - AT 20% COMPLETION AS OF FEB 2025](https://bacolodcity.gov.ph/wp-content/uploads/2022/06/475810963_1156835665835219_7519979364223613245_n.jpg) - Government Link
+- [OLD CITY HALL AT 39.70% COMPLETION AS OF FEB 2025](https://bacolodcity.gov.ph/wp-content/uploads/2022/06/475843533_1156835635835222_815623427333979610_n.jpg) - Government Link
+- [MULTI-PURPOSE BUILDING WITH SKATE PARK AT 95% COMPLETION AS OF FEB 2025](https://bacolodcity.gov.ph/wp-content/uploads/2022/06/475869360_1156835645835221_6004403964739377937_n.jpg) - Government Link
+- [LEGISLATIVE BUILDING AT 56% COMPLETION AS OF FEB 2025](https://bacolodcity.gov.ph/wp-content/uploads/2022/06/476020844_1156835602501892_4074412770681752409_n.jpg) - Government Link
+- [COLISEUM AT 70.01% COMPLETION AS OF FEB 2025](https://bacolodcity.gov.ph/wp-content/uploads/2022/06/476105256_1156835695835216_7424896059792152995_n.jpg) - Government Link
+- [ROMANITO MARAVILLA NATIONAL HIGH SCHOOL ATHLETES' DORMITORY AT 80% COMPLETION AS OF FEB 2025](https://bacolodcity.gov.ph/wp-content/uploads/2022/06/476168050_1156835612501891_2294969074608073735_n.jpg) - Government Link
+- [BHA prepares for the turnover of Asenso Yuhum units under the 4PH Program](https://bacolodcity.gov.ph/wp-content/uploads/2022/06/07082024_05.jpg) - Government Link
+- [Rehabilitation and Improvement of Old City Hall Building Gro](https://bacolodcity.gov.ph/wp-content/uploads/2024/08/08072024_03-1920x1281.jpg) - Government Link
+- [Link](https://bacolodcity.gov.ph/bagong-pilipinas-200x160/) - Government Link
+- [Link](https://bacolodcity.gov.ph/transparency-seal-posted-2/) - Government Link
+- [Link](https://bacolodcity.gov.ph/bacolod-seal-post/) - Government Link
+- [Link](https://bacolodcity.gov.ph/sp-new-post/) - Government Link
+
+### Facebook Pages
+
+- [Facebook Page](https://www.facebook.com/sharer)
+  - Verification: Linked from .gov.ph
+  - Confidence: High
+- [Facebook Page](https://www.facebook.com/dialog)
+  - Verification: Linked from .gov.ph
+  - Confidence: High
+- [Facebook Page](https://www.facebook.com/photo)
+  - Verification: Linked from .gov.ph
+  - Confidence: High
+- [Facebook Page](https://www.facebook.com/bcdpublicinfooffice)
+  - Verification: Linked from .gov.ph
+  - Confidence: High
+- [Facebook Page](https://www.facebook.com/profile.php)
+  - Verification: Linked from .gov.ph
+  - Confidence: High
+- [Facebook Page](https://www.facebook.com/plugins)
+  - Verification: Linked from .gov.ph
+  - Confidence: High

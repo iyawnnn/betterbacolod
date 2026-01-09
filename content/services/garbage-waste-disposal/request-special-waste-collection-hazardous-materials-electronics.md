@@ -43,12 +43,19 @@ Hazardous and electronic wastes (e-waste) cannot be disposed of with regular gar
 
 ## 4) Contact Information
 
-- **City Environment and Natural Resources Office (CENRO)**  
-  Bacolod City Hall, Government Complex, Brgy. Pajo  
-  Phone: (032) 340-0004 (City Hall trunkline, ask for CENRO)  
-  Updates: [Bacolod City Government Facebook Page](https://www.facebook.com/lapulapucitygovernment)
+- **Bacolod Environment and Natural Resources Office (BENRO)**
+- **Phone**: (034) 434-9122
+- **Location**: Bacolod City Government Center, Circumferential Rd, Brgy. Villamonte, Bacolod City, 6100 Negros Occidental
+- **Website**: [bacolodcity.gov.ph](https://bacolodcity.gov.ph/bacolod-environment-and-natural-resources/)
 
-- **Barangay Halls** — Environment/Solid Waste desk for barangay-level pickup scheduling.
+- **Barangay Halls** — Environment/Solid Waste desk for barangay-level pickup scheduling
+
+---
+
+**Sources:**
+
+- [Bacolod Environment and Natural Resources Office](https://bacolodcity.gov.ph/bacolod-environment-and-natural-resources/) — Jan 8, 2026
+- [Bacolod City Contact Information](https://bacolodcity.gov.ph/contact-us/) — Jan 8, 2026
 
 ---
 

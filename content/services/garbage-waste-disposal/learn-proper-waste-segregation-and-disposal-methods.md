@@ -61,10 +61,17 @@ Proper waste segregation is **mandatory** in Bacolod City under **Republic Act 9
 
 ## Contact for Support
 
-- **City Environment and Natural Resources Office (CENRO)**  
-  Bacolod City Hall, Government Complex, Brgy. Pajo  
-  Phone: (032) 340-0004 (ask for CENRO)  
-  Updates via: [Bacolod City Information Office Facebook Page](https://www.facebook.com/lapulapucitygovernment)
+- **Bacolod Environment and Natural Resources Office (BENRO)**
+- **Phone**: (034) 434-9122
+- **Location**: Bacolod City Government Center, Circumferential Rd, Brgy. Villamonte, Bacolod City, 6100 Negros Occidental
+- **Website**: [bacolodcity.gov.ph](https://bacolodcity.gov.ph/bacolod-environment-and-natural-resources/)
+
+---
+
+**Sources:**
+
+- [Bacolod Environment and Natural Resources Office](https://bacolodcity.gov.ph/bacolod-environment-and-natural-resources/) — Jan 8, 2026
+- [Bacolod City Contact Information](https://bacolodcity.gov.ph/contact-us/) — Jan 8, 2026
 
 ---
 
