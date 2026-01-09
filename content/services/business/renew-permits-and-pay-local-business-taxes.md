@@ -51,6 +51,15 @@ All businesses operating in Bacolod City must renew their business permits annua
 
 - **Business Permits and Licensing Division (BPLO)**
 - **Phone**: (034) 434-9122
-- **Location**: Bacolod City Government Center, Brgy. Villamonte
+- **Email**: bplo@bacolodcity.gov.ph
+- **Location**: Bacolod City Government Center, Circumferential Rd, Brgy. Villamonte, Bacolod City, 6100 Negros Occidental
 - **Website**: [bacolodcity.gov.ph](https://bacolodcity.gov.ph/business-permits-and-licensing-division/)
 - **Online Services**: [onlineservices.bacolodcity.gov.ph](https://onlineservices.bacolodcity.gov.ph/)
+
+---
+
+**Sources:**
+
+- [Business Permits and Licensing Division](https://bacolodcity.gov.ph/business-permits-and-licensing-division/) — Jan 8, 2026
+- [Bacolod City Contact Information](https://bacolodcity.gov.ph/contact-us/) — Jan 8, 2026
+- [Online Services Portal](https://onlineservices.bacolodcity.gov.ph/) — Jan 8, 2026

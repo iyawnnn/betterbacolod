@@ -40,11 +40,20 @@ Bacolod City supports local businesses through trade fairs, expos, and tourism p
 
 ## Contact Information
 
-- **Department of Local Economic Development**
+- **Department of Local Economic Development and Investment Promotions**
 - **Phone**: (034) 434-9122
-- **Location**: Bacolod City Government Center, Brgy. Villamonte
+- **Email**: bcdledipoffice@bacolodcity.gov.ph
+- **Location**: Bacolod City Government Center, Circumferential Rd, Brgy. Villamonte, Bacolod City, 6100 Negros Occidental
 - **Website**: [bacolodcity.gov.ph](https://bacolodcity.gov.ph/department-of-local-economic-development-and-investment-promotions/)
 
 ---
 
 **Note:** Event schedules and requirements vary. Contact the organizing department for specific details.
+
+---
+
+**Sources:**
+
+- [Department of Local Economic Development and Investment Promotions](https://bacolodcity.gov.ph/department-of-local-economic-development-and-investment-promotions/) — Jan 8, 2026
+- [Business Incentives](https://bacolodcity.gov.ph/apply-for-business-incentives/) — Jan 8, 2026
+- [Bacolod City Contact Information](https://bacolodcity.gov.ph/contact-us/) — Jan 8, 2026
