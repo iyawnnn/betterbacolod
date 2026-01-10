@@ -39,6 +39,8 @@ import garbageWasteDisposalIndex from '../../content/services/garbage-waste-disp
 import environmentIndex from '../../content/services/environment/index.yaml?raw';
 import disasterPreparednessIndex from '../../content/services/disaster-preparedness/index.yaml?raw';
 import housingLandUseIndex from '../../content/services/housing-land-use/index.yaml?raw';
+import transportationIndex from '../../content/services/transportation/index.yaml?raw';
+import publicSafetyIndex from '../../content/services/public-safety/index.yaml?raw';
 
 // Create a mapping of category slugs to their YAML content
 const categoryIndexMap: { [key: string]: string } = {
@@ -48,9 +50,11 @@ const categoryIndexMap: { [key: string]: string } = {
   'social-welfare': socialWelfareIndex,
   'agriculture-fisheries': agricultureFisheriesIndex,
   'infrastructure-public-works': infrastructurePublicWorksIndex,
+  transportation: transportationIndex,
   'garbage-waste-disposal': garbageWasteDisposalIndex,
   environment: environmentIndex,
   'disaster-preparedness': disasterPreparednessIndex,
+  'public-safety': publicSafetyIndex,
   'housing-land-use': housingLandUseIndex,
 };
 
