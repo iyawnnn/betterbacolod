@@ -1,7 +1,15 @@
 import { useTranslation } from 'react-i18next';
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { Search, ArrowRight } from 'lucide-react';
+import {
+  Search,
+  Briefcase,
+  Heart,
+  Trash2,
+  Bus,
+  FileText,
+  GraduationCap,
+} from 'lucide-react';
 import { Heading } from '../ui/Heading';
 import { Text } from '../ui/Text';
 
@@ -17,11 +25,43 @@ export default function Hero() {
     }
   };
 
-  const popularServices = [
-    { label: 'Business Permit', path: '/services/business' },
-    { label: 'Health Services', path: '/services/health-services' },
-    { label: 'Waste Collection', path: '/services/garbage-waste-disposal' },
-    { label: 'Transportation', path: '/services/transportation' },
+  const quickActions = [
+    {
+      label: 'Business',
+      icon: Briefcase,
+      path: '/services/business',
+      color: 'text-blue-600',
+    },
+    {
+      label: 'Health',
+      icon: Heart,
+      path: '/services/health-services',
+      color: 'text-red-600',
+    },
+    {
+      label: 'Education',
+      icon: GraduationCap,
+      path: '/services/education',
+      color: 'text-green-600',
+    },
+    {
+      label: 'Waste',
+      icon: Trash2,
+      path: '/services/garbage-waste-disposal',
+      color: 'text-emerald-600',
+    },
+    {
+      label: 'Transport',
+      icon: Bus,
+      path: '/services/transportation',
+      color: 'text-orange-600',
+    },
+    {
+      label: 'Documents',
+      icon: FileText,
+      path: '/services',
+      color: 'text-purple-600',
+    },
   ];
 
   return (
@@ -30,58 +70,57 @@ export default function Hero() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           {/* Left section with title */}
           <div className="animate-fade-in">
-            <Text transform="uppercase" className="text-primary-100">
+            <Text transform="uppercase" className="text-primary-100 text-xs">
               Welcome to
             </Text>
-            <Heading className="text-4xl md:text-5xl font-bold mb-4">
+            <Heading className="text-4xl md:text-5xl font-bold mb-3">
               {import.meta.env.VITE_GOVERNMENT_NAME}
             </Heading>
-            <Text className="text-lg text-primary-50">
+            <Text className="text-base text-primary-50">
               {t('hero.subtitle')}
             </Text>
           </div>
 
           {/* Right section with search box */}
           <div className="animate-fade-in">
-            <div className="bg-white rounded-2xl shadow-2xl p-8">
-              <div className="flex items-center gap-3 mb-6">
-                <Search className="h-6 w-6 text-primary-600" />
-                <h3 className="text-2xl font-bold text-gray-900">
-                  Find a Service
-                </h3>
-              </div>
+            <div className="bg-white/95 backdrop-blur-sm rounded-xl shadow-xl p-6">
+              <h3 className="text-lg font-bold text-gray-900 mb-4">
+                Search Services
+              </h3>
 
-              <form onSubmit={handleSearch} className="mb-6">
-                <div className="flex gap-3">
+              <form onSubmit={handleSearch} className="mb-5">
+                <div className="relative">
+                  <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 h-5 w-5 text-primary-500" />
                   <input
                     type="text"
                     value={searchQuery}
                     onChange={e => setSearchQuery(e.target.value)}
-                    placeholder="e.g., birth certificate, business permit"
-                    className="flex-1 px-4 py-3 text-gray-900 bg-gray-50 border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent placeholder-gray-400"
+                    placeholder="Search services, permits, information..."
+                    className="w-full pl-11 pr-4 py-3 text-sm text-gray-900 bg-white border-2 border-primary-100 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-primary-500 placeholder-gray-400 transition-all"
                   />
-                  <button
-                    type="submit"
-                    className="bg-primary-600 hover:bg-primary-700 text-white p-3 rounded-xl transition-colors shadow-lg hover:shadow-xl"
-                  >
-                    <ArrowRight className="h-6 w-6" />
-                  </button>
                 </div>
               </form>
 
-              <div className="flex flex-wrap gap-2">
-                <span className="text-sm text-gray-500 font-medium">
-                  Popular:
-                </span>
-                {popularServices.map(service => (
-                  <button
-                    key={service.label}
-                    onClick={() => navigate(service.path)}
-                    className="text-sm px-4 py-2 bg-primary-50 text-primary-700 rounded-full hover:bg-primary-100 transition-colors font-medium"
-                  >
-                    {service.label}
-                  </button>
-                ))}
+              <div className="border-t border-gray-100 pt-4">
+                <h4 className="text-sm font-bold text-gray-900 mb-3">
+                  Popular Services
+                </h4>
+                <div className="grid grid-cols-3 gap-2">
+                  {quickActions.map(action => (
+                    <button
+                      key={action.label}
+                      onClick={() => navigate(action.path)}
+                      className="flex flex-col items-center gap-1.5 p-3 bg-gray-50 hover:bg-gray-100 rounded-lg transition-all hover:shadow-md group"
+                    >
+                      <action.icon
+                        className={`h-5 w-5 ${action.color} group-hover:scale-110 transition-transform`}
+                      />
+                      <span className="text-xs font-medium text-gray-700">
+                        {action.label}
+                      </span>
+                    </button>
+                  ))}
+                </div>
               </div>
             </div>
           </div>
