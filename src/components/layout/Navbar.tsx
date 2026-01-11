@@ -24,9 +24,9 @@ const Navbar: React.FC = () => {
   return (
     <nav className="bg-white shadow-sm sticky top-0 z-50">
       <div className="container mx-auto px-4">
-        <div className="flex items-center h-16">
-          {/* Logo - fixed width */}
-          <div className="w-48 flex-shrink-0">
+        <div className="flex items-center justify-between h-16">
+          {/* Logo */}
+          <div className="lg:w-48 flex-shrink-0">
             <Link to="/" className="flex items-center">
               <img
                 src="/nav-logo.png"

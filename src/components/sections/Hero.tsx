@@ -213,24 +213,24 @@ export default function Hero() {
   ];
 
   return (
-    <div className="bg-gradient-to-r from-primary-600 to-primary-700 text-white py-12 md:py-24">
+    <div className="bg-gradient-to-r from-primary-600 to-primary-700 text-white py-10 md:py-16">
       <div className="container mx-auto px-4">
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
           {/* Left section with title */}
           <div className="animate-fade-in">
             <Text
               transform="uppercase"
-              className="text-primary-100 text-sm font-semibold tracking-wider mb-3"
+              className="text-primary-100 text-xs font-semibold tracking-wider mb-2"
             >
               Welcome to
             </Text>
-            <Heading className="text-5xl md:text-6xl font-bold mb-6 leading-tight">
-              {import.meta.env.VITE_GOVERNMENT_NAME}
+            <Heading className="text-3xl md:text-4xl font-bold mb-4 leading-tight">
+              BetterBacolod.org
             </Heading>
-            <Text className="text-lg md:text-xl text-primary-50 leading-relaxed mb-6">
+            <Text className="text-base md:text-lg text-primary-50 leading-relaxed mb-4">
               {t('hero.subtitle')}
             </Text>
-            <p className="text-base text-primary-100 leading-relaxed">
+            <p className="text-sm text-primary-100 leading-relaxed">
               Access government services, permits, and information for Bacolod
               City residents and businesses.
             </p>
@@ -238,14 +238,14 @@ export default function Hero() {
 
           {/* Right section with search box */}
           <div className="animate-fade-in">
-            <div className="bg-white/95 backdrop-blur-sm rounded-xl shadow-xl p-6">
-              <h3 className="text-lg font-bold text-gray-900 mb-4">
+            <div className="bg-white/95 backdrop-blur-sm rounded-xl shadow-xl p-5">
+              <h3 className="text-base font-bold text-gray-900 mb-3">
                 Search Services
               </h3>
 
-              <form onSubmit={handleSearch} className="mb-5">
+              <form onSubmit={handleSearch} className="mb-4">
                 <div className="relative">
-                  <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 h-5 w-5 text-primary-500" />
+                  <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 h-4 w-4 text-primary-500" />
                   <input
                     type="text"
                     value={searchQuery}
@@ -256,7 +256,7 @@ export default function Hero() {
                     onFocus={() => setShowDropdown(true)}
                     onBlur={() => setTimeout(() => setShowDropdown(false), 150)}
                     placeholder="Search services, permits, information..."
-                    className="w-full pl-11 pr-4 py-3 text-sm text-gray-900 bg-white border-2 border-primary-100 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-primary-500 placeholder-gray-400 transition-all"
+                    className="w-full pl-10 pr-4 py-2.5 text-sm text-gray-900 bg-white border-2 border-primary-100 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-primary-500 placeholder-gray-400 transition-all"
                   />
                   {showDropdown && filtered.length > 0 && (
                     <div className="absolute top-full left-0 right-0 mt-1 bg-white border rounded-lg shadow-lg z-50 overflow-hidden">

@@ -37,57 +37,57 @@ const TopBanner: React.FC = () => {
   }, []);
 
   const getWeatherIcon = (code: number) => {
-    if (code === 0) return <Sun className="h-3.5 w-3.5 text-amber-500" />;
-    if (code <= 3) return <Cloud className="h-3.5 w-3.5 text-slate-400" />;
-    if (code <= 67) return <CloudRain className="h-3.5 w-3.5 text-sky-500" />;
-    return <CloudLightning className="h-3.5 w-3.5 text-violet-500" />;
+    if (code === 0) return <Sun className="h-3 w-3 text-amber-500" />;
+    if (code <= 3) return <Cloud className="h-3 w-3 text-slate-400" />;
+    if (code <= 67) return <CloudRain className="h-3 w-3 text-sky-500" />;
+    return <CloudLightning className="h-3 w-3 text-violet-500" />;
   };
 
   const curr = currencies[currentIdx];
   const rate = rates[curr] ? (1 / rates[curr]).toFixed(2) : null;
 
   return (
-    <div className="bg-slate-50 border-b border-slate-200 text-xs">
-      <div className="container mx-auto px-4 py-2 flex items-center justify-end">
-        <div className="flex items-center divide-x divide-slate-300">
-          <div className="flex items-center gap-3 pr-4 text-slate-600">
-            <span>
-              {new Date().toLocaleDateString('en-PH', {
-                weekday: 'short',
-                month: 'short',
-                day: 'numeric',
-              })}
+    <div className="bg-slate-50 border-b border-slate-200 text-[10px]">
+      <div className="container mx-auto px-4 py-1 flex items-center justify-between">
+        {/* Left - Date & Weather */}
+        <div className="flex items-center gap-3 text-slate-600">
+          <span className="text-slate-500">
+            {new Date().toLocaleDateString('en-PH', {
+              weekday: 'short',
+              month: 'short',
+              day: 'numeric',
+            })}
+          </span>
+          {weather && (
+            <span className="inline-flex items-center gap-1">
+              {getWeatherIcon(weather.code)} {weather.temp}°C
             </span>
-            {weather && (
-              <span className="flex items-center gap-1">
-                {getWeatherIcon(weather.code)}
-                {weather.temp}°C
-              </span>
-            )}
-            {rate && (
-              <span
-                key={curr}
-                className="text-emerald-600 font-medium min-w-[90px] animate-fade-in"
-              >
-                1 {curr} = ₱{rate}
-              </span>
-            )}
-          </div>
-          <div className="flex items-center gap-2 pl-4">
-            <Phone className="h-3.5 w-3.5 text-red-500" />
-            <a
-              href="tel:911"
-              className="font-semibold text-red-600 hover:underline"
+          )}
+          {rate && (
+            <span
+              key={curr}
+              className="text-emerald-600 font-medium animate-fade-in"
             >
-              911
-            </a>
-            <a
-              href="tel:0344323871"
-              className="text-slate-600 hover:text-primary-600"
-            >
-              CDRRMO (034) 432-3871
-            </a>
-          </div>
+              {curr} ₱{rate}
+            </span>
+          )}
+        </div>
+        {/* Right - Hotlines */}
+        <div className="flex items-center gap-1 text-slate-600">
+          <Phone className="h-3 w-3 text-red-500" />
+          <a
+            href="tel:911"
+            className="font-semibold text-red-600 hover:underline"
+          >
+            911
+          </a>
+          <span className="text-slate-300 hidden sm:inline mx-1">·</span>
+          <a
+            href="tel:0344323871"
+            className="text-slate-600 hover:text-primary-600 hidden sm:inline"
+          >
+            CDRRMO (034) 432-3871
+          </a>
         </div>
       </div>
     </div>
