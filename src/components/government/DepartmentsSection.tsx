@@ -1,4 +1,5 @@
 import { Phone, Mail } from 'lucide-react';
+import { useState, useEffect, useRef } from 'react';
 
 interface Department {
   name: string;
@@ -8,12 +9,14 @@ interface Department {
 }
 
 interface DepartmentGroup {
+  id: string;
   title: string;
   departments: Department[];
 }
 
 const departmentGroups: DepartmentGroup[] = [
   {
+    id: 'executive',
     title: 'Executive Offices',
     departments: [
       {
@@ -37,6 +40,7 @@ const departmentGroups: DepartmentGroup[] = [
     ],
   },
   {
+    id: 'finance',
     title: 'Finance & Administration',
     departments: [
       {
@@ -78,7 +82,8 @@ const departmentGroups: DepartmentGroup[] = [
     ],
   },
   {
-    title: 'Planning & Economic Development',
+    id: 'planning',
+    title: 'Planning & Economic',
     departments: [
       {
         name: 'City Planning (CPDO)',
@@ -99,7 +104,8 @@ const departmentGroups: DepartmentGroup[] = [
     ],
   },
   {
-    title: 'Health & Social Services',
+    id: 'health',
+    title: 'Health & Social',
     departments: [
       {
         name: 'City Health Office',
@@ -122,6 +128,7 @@ const departmentGroups: DepartmentGroup[] = [
     ],
   },
   {
+    id: 'infrastructure',
     title: 'Infrastructure & Environment',
     departments: [
       {
@@ -151,6 +158,7 @@ const departmentGroups: DepartmentGroup[] = [
     ],
   },
   {
+    id: 'safety',
     title: 'Public Safety',
     departments: [
       {
@@ -173,6 +181,7 @@ const departmentGroups: DepartmentGroup[] = [
     ],
   },
   {
+    id: 'business',
     title: 'Business & Permits',
     departments: [
       {
@@ -189,6 +198,7 @@ const departmentGroups: DepartmentGroup[] = [
     ],
   },
   {
+    id: 'agriculture',
     title: 'Agriculture & Veterinary',
     departments: [
       {
@@ -205,6 +215,7 @@ const departmentGroups: DepartmentGroup[] = [
     ],
   },
   {
+    id: 'records',
     title: 'Records & Information',
     departments: [
       {
@@ -228,11 +239,12 @@ const departmentGroups: DepartmentGroup[] = [
       {
         name: 'Public Information',
         head: 'Angelo Angolo (OIC)',
-        email: 'bacolodcitycommunicationsoffice@bacolodcity.gov.ph',
+        email: 'pio@bacolodcity.gov.ph',
       },
     ],
   },
   {
+    id: 'housing',
     title: 'Housing & Community',
     departments: [
       {
@@ -256,6 +268,7 @@ const departmentGroups: DepartmentGroup[] = [
     ],
   },
   {
+    id: 'education',
     title: 'Education & Youth',
     departments: [
       {
@@ -275,48 +288,111 @@ const departmentGroups: DepartmentGroup[] = [
 ];
 
 export default function DepartmentsSection() {
-  return (
-    <div className="space-y-6">
-      {departmentGroups.map((group, gi) => (
-        <section key={gi}>
-          <h2 className="text-sm font-semibold text-gray-900 mb-3 pb-2 border-b border-gray-300 uppercase tracking-wide">
-            {group.title}
-          </h2>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
-            {group.departments.map((dept, di) => (
-              <div
-                key={di}
-                className="bg-white border border-gray-300 rounded-lg p-3 hover:border-primary-400 hover:shadow-sm transition-all"
-              >
-                <h3 className="font-medium text-gray-900 text-sm">
-                  {dept.name}
-                </h3>
-                <p className="text-xs text-gray-600 mt-1">{dept.head}</p>
-                <div className="mt-2 flex flex-wrap gap-x-3 gap-y-1 text-xs text-gray-700">
-                  {dept.phone && (
-                    <span className="flex items-center gap-1">
-                      <Phone className="h-3 w-3 text-primary-500" />
-                      {dept.phone}
-                    </span>
-                  )}
-                  {dept.email && (
-                    <span className="flex items-center gap-1 truncate">
-                      <Mail className="h-3 w-3 text-primary-500" />
-                      <span className="truncate">
-                        {dept.email.replace('@bacolodcity.gov.ph', '@...')}
-                      </span>
-                    </span>
-                  )}
-                </div>
-              </div>
-            ))}
-          </div>
-        </section>
-      ))}
+  const [activeSection, setActiveSection] = useState(departmentGroups[0].id);
+  const contentRef = useRef<HTMLDivElement>(null);
 
-      <p className="text-xs text-gray-500 pt-4 border-t border-gray-200">
-        Source: bacolodcity.gov.ph/departments
-      </p>
+  useEffect(() => {
+    const container = contentRef.current;
+    if (!container) return;
+
+    const handleScroll = () => {
+      const sections = container.querySelectorAll('section[id]');
+      let current = departmentGroups[0].id;
+
+      sections.forEach(section => {
+        const rect = section.getBoundingClientRect();
+        const containerRect = container.getBoundingClientRect();
+        if (rect.top <= containerRect.top + 100) {
+          current = section.id;
+        }
+      });
+
+      setActiveSection(current);
+    };
+
+    container.addEventListener('scroll', handleScroll);
+    return () => container.removeEventListener('scroll', handleScroll);
+  }, []);
+
+  const scrollTo = (id: string) => {
+    const element = document.getElementById(id);
+    const container = contentRef.current;
+    if (element && container) {
+      const offsetTop = element.offsetTop - container.offsetTop;
+      container.scrollTo({ top: offsetTop, behavior: 'smooth' });
+    }
+  };
+
+  return (
+    <div className="flex gap-4 h-[500px]">
+      {/* Sidebar */}
+      <nav className="w-44 flex-shrink-0 border-r border-gray-200 pr-4 overflow-y-auto">
+        <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-3">
+          Departments
+        </p>
+        <div className="space-y-0.5">
+          {departmentGroups.map(group => (
+            <button
+              key={group.id}
+              onClick={() => scrollTo(group.id)}
+              className={`block w-full text-left text-xs px-2 py-1.5 rounded transition-colors ${
+                activeSection === group.id
+                  ? 'bg-primary-100 text-primary-700 font-medium'
+                  : 'text-gray-600 hover:text-primary-600 hover:bg-gray-50'
+              }`}
+            >
+              {group.title}
+            </button>
+          ))}
+        </div>
+      </nav>
+
+      {/* Scrollable Content */}
+      <div ref={contentRef} className="flex-1 overflow-y-auto pr-2 space-y-6">
+        {departmentGroups.map(group => (
+          <section key={group.id} id={group.id}>
+            <h2 className="text-sm font-semibold text-gray-900 mb-3 pb-2 border-b border-gray-300 uppercase tracking-wide sticky top-0 bg-white">
+              {group.title}
+            </h2>
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+              {group.departments.map((dept, di) => (
+                <div
+                  key={di}
+                  className="bg-white border border-gray-300 rounded-lg p-3 hover:border-primary-400 hover:shadow-sm transition-all"
+                >
+                  <h3 className="font-medium text-gray-900 text-sm">
+                    {dept.name}
+                  </h3>
+                  <p className="text-xs text-gray-600 mt-1">{dept.head}</p>
+                  <div className="mt-2 space-y-1 text-xs text-gray-700">
+                    {dept.phone && (
+                      <p className="flex items-center gap-1.5">
+                        <Phone className="h-3 w-3 text-primary-500 flex-shrink-0" />
+                        {dept.phone}
+                      </p>
+                    )}
+                    {dept.email && (
+                      <p className="flex items-center gap-1.5">
+                        <Mail className="h-3 w-3 text-primary-500 flex-shrink-0" />
+                        <a
+                          href={`mailto:${dept.email}`}
+                          className="hover:text-primary-600 break-all"
+                        >
+                          {dept.email}
+                        </a>
+                      </p>
+                    )}
+                  </div>
+                </div>
+              ))}
+            </div>
+          </section>
+        ))}
+
+        <p className="text-xs text-gray-500 pt-4 border-t border-gray-200">
+          Source: bacolodcity.gov.ph/departments
+        </p>
+      </div>
     </div>
   );
 }
