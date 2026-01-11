@@ -6,6 +6,7 @@ import ScrollToTop from './components/ui/ScrollToTop';
 import Services from './pages/Services';
 import Government from './pages/Government';
 import Transparency from './pages/Transparency';
+import About from './pages/About';
 import Document from './pages/Document';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
@@ -23,6 +24,7 @@ function App() {
               <Route path="/services" element={<Services />} />
               <Route path="/government" element={<Government />} />
               <Route path="/transparency" element={<Transparency />} />
+              <Route path="/about" element={<About />} />
               <Route path="/:lang/:documentSlug" element={<Document />} />
               <Route path="/:documentSlug" element={<Document />} />
             </Routes>
