@@ -9,6 +9,7 @@ import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import { createMarkdownComponents } from '../lib/markdownComponents';
 import { getTypographyTheme } from '../lib/typographyThemes';
+import { useState } from 'react';
 
 // Import markdown files directly
 import officialsContent from '../../content/government/officials.md?raw';
@@ -22,13 +23,10 @@ const contentMap: { [key: string]: string } = {
 };
 
 const Government: React.FC = () => {
+  const [activeSection, setActiveSection] = useState<string | null>(null);
   const markdownComponents = createMarkdownComponents(
     getTypographyTheme('default')
   );
-
-  const scrollToSection = (slug: string) => {
-    document.getElementById(slug)?.scrollIntoView({ behavior: 'smooth' });
-  };
 
   return (
     <>
@@ -45,21 +43,24 @@ const Government: React.FC = () => {
         </Text>
 
         {/* Category Cards */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 mb-12">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
           {governmentActivitCategories.categories.map(cat => {
             const CatIcon = LucideIcons[
               cat.icon as keyof typeof LucideIcons
             ] as React.ComponentType<{ className?: string }>;
+            const isActive = activeSection === cat.slug;
             return (
               <Card
                 key={cat.slug}
                 hoverable
-                className="border-t-4 border-primary-500 cursor-pointer"
-                onClick={() => scrollToSection(cat.slug)}
+                className={`border-t-4 cursor-pointer transition-all ${isActive ? 'border-primary-600 ring-2 ring-primary-200' : 'border-primary-500'}`}
+                onClick={() => setActiveSection(isActive ? null : cat.slug)}
               >
                 <CardContent className="flex flex-col h-full p-6">
                   <div className="flex gap-2">
-                    <div className="bg-primary-100 text-primary-600 p-3 rounded-md mb-4 self-start">
+                    <div
+                      className={`p-3 rounded-md mb-4 self-start ${isActive ? 'bg-primary-600 text-white' : 'bg-primary-100 text-primary-600'}`}
+                    >
                       {CatIcon && <CatIcon className="h-6 w-6" />}
                     </div>
                     <h3 className="text-lg font-semibold mb-4 text-gray-900 self-center">
@@ -73,21 +74,21 @@ const Government: React.FC = () => {
           })}
         </div>
 
-        {/* Content Sections */}
-        {governmentActivitCategories.categories.map(cat => (
-          <div key={cat.slug} id={cat.slug} className="mb-12 scroll-mt-24">
+        {/* Content Section */}
+        {activeSection && (
+          <div className="mt-8">
             <Card className="markdown-content">
               <CardContent className="p-6">
                 <ReactMarkdown
                   remarkPlugins={[remarkGfm]}
                   components={markdownComponents}
                 >
-                  {contentMap[cat.slug] || ''}
+                  {contentMap[activeSection] || ''}
                 </ReactMarkdown>
               </CardContent>
             </Card>
           </div>
-        ))}
+        )}
       </Section>
     </>
   );
