@@ -24,18 +24,20 @@ const Navbar: React.FC = () => {
   return (
     <nav className="bg-white shadow-sm sticky top-0 z-50">
       <div className="container mx-auto px-4">
-        <div className="flex items-center justify-between h-16">
-          {/* Logo */}
-          <Link to="/" className="flex items-center">
-            <img
-              src="/nav-logo.png"
-              alt="BetterBacolod"
-              className="h-12 w-auto"
-            />
-          </Link>
+        <div className="flex items-center h-16">
+          {/* Logo - fixed width */}
+          <div className="w-48 flex-shrink-0">
+            <Link to="/" className="flex items-center">
+              <img
+                src="/nav-logo.png"
+                alt="BetterBacolod"
+                className="h-12 w-auto"
+              />
+            </Link>
+          </div>
 
-          {/* Desktop navigation */}
-          <div className="hidden lg:flex items-center gap-1">
+          {/* Desktop navigation - centered */}
+          <div className="hidden lg:flex items-center justify-center flex-1 gap-1">
             {mainNavigation.map(item => (
               <div key={item.label} className="relative group">
                 <Link
@@ -66,8 +68,8 @@ const Navbar: React.FC = () => {
             ))}
           </div>
 
-          {/* Right side */}
-          <div className="hidden lg:flex items-center gap-2">
+          {/* Right side - fixed width to match logo */}
+          <div className="hidden lg:flex items-center justify-end gap-2 w-48">
             <Link
               to="/about"
               className="px-4 py-2 text-slate-600 hover:text-primary-600 hover:bg-slate-50 rounded-lg font-medium transition-colors"
@@ -76,7 +78,7 @@ const Navbar: React.FC = () => {
             </Link>
             <Link
               to="/search"
-              className="flex items-center gap-2 px-4 py-2 bg-primary-600 text-white rounded-lg font-medium hover:bg-primary-700 transition-colors"
+              className="flex items-center gap-2 px-4 py-2 text-slate-600 hover:text-primary-600 hover:bg-slate-50 rounded-lg font-medium transition-colors"
             >
               <Search className="h-4 w-4" />
               Search
@@ -149,7 +151,7 @@ const Navbar: React.FC = () => {
               <Link
                 to="/search"
                 onClick={closeMenu}
-                className="flex items-center justify-center gap-2 px-4 py-3 bg-primary-600 text-white rounded-lg font-medium"
+                className="flex items-center justify-center gap-2 px-4 py-3 text-slate-700 hover:bg-slate-50 rounded-lg font-medium"
               >
                 <Search className="h-4 w-4" />
                 Search

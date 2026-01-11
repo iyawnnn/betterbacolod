@@ -65,7 +65,10 @@ const TopBanner: React.FC = () => {
               </span>
             )}
             {rate && (
-              <span className="text-emerald-600 font-medium min-w-[80px]">
+              <span
+                key={curr}
+                className="text-emerald-600 font-medium min-w-[90px] animate-fade-in"
+              >
                 1 {curr} = ₱{rate}
               </span>
             )}
