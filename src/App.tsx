@@ -9,6 +9,7 @@ import Government from './pages/Government';
 import Transparency from './pages/Transparency';
 import About from './pages/About';
 import Sitemap from './pages/Sitemap';
+import Search from './pages/Search';
 import Document from './pages/Document';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
@@ -29,6 +30,7 @@ function App() {
               <Route path="/transparency" element={<Transparency />} />
               <Route path="/about" element={<About />} />
               <Route path="/sitemap" element={<Sitemap />} />
+              <Route path="/search" element={<Search />} />
               <Route path="/:lang/:documentSlug" element={<Document />} />
               <Route path="/:documentSlug" element={<Document />} />
             </Routes>

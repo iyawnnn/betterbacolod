@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next';
-import { useState } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useState, useMemo } from 'react';
+import { useNavigate, Link } from 'react-router-dom';
 import {
   Search,
   Briefcase,
@@ -12,16 +12,164 @@ import {
 } from 'lucide-react';
 import { Heading } from '../ui/Heading';
 import { Text } from '../ui/Text';
+import { serviceCategories } from '../../data/yamlLoader';
+
+interface ServiceCategory {
+  category: string;
+  slug: string;
+  description: string;
+  subcategories?: { name: string; slug: string }[];
+}
 
 export default function Hero() {
   const { t } = useTranslation();
   const navigate = useNavigate();
   const [searchQuery, setSearchQuery] = useState('');
+  const [showDropdown, setShowDropdown] = useState(false);
+
+  const allItems = useMemo(() => {
+    const items: { title: string; href: string }[] = [];
+    (serviceCategories.categories as ServiceCategory[]).forEach(cat => {
+      items.push({ title: cat.category, href: `/services/${cat.slug}` });
+      cat.subcategories?.forEach(sub => {
+        items.push({ title: sub.name, href: `/services/${cat.slug}` });
+      });
+    });
+    // Officials
+    const officials = [
+      'Mayor Greg Gasataya',
+      'Vice Mayor Claudio Puentevella',
+      'Congressman Albee Benitez',
+      'Councilor Caesar Distrito',
+      'Councilor Israel Salanga',
+      'Councilor Em Ang',
+      'Councilor Jude Thaddeus Sayson',
+      'Councilor Al Espino',
+      'Councilor Dindo Ramos',
+      'Councilor Bobby Rojas',
+      'Councilor Jason Villarosa',
+      'Councilor Homer Bais',
+      'Councilor Wilson Gamboa Jr.',
+      'Councilor Celia Flor',
+      'Councilor Pao Sy',
+    ];
+    officials.forEach(o => items.push({ title: o, href: '/government' }));
+    // Departments
+    const depts = [
+      'City Health Office',
+      'City Engineering Office',
+      'City Treasurer Office',
+      'City Assessor Office',
+      'PESO Bacolod',
+      'Business Permits and Licensing',
+      'City Civil Registry',
+      'CDRRMO',
+      'City Social Welfare',
+      'City Agriculture Office',
+      'City Budget Office',
+      'City Accounting Office',
+      'City Legal Office',
+      'City Planning and Development',
+      'City Environment Office',
+      'City Veterinary Office',
+      'Public Information Office',
+      'Human Resource Management Office',
+    ];
+    depts.forEach(d => items.push({ title: d, href: '/government' }));
+    // Barangays
+    const brgys = [
+      'Alijis',
+      'Banago',
+      'Bata',
+      'Cabug',
+      'Estefania',
+      'Felisa',
+      'Granada',
+      'Handumanan',
+      'Mandalagan',
+      'Mansilingan',
+      'Montevista',
+      'Pahanocoy',
+      'Punta Taytay',
+      'Singcang-Airport',
+      'Sum-ag',
+      'Taculing',
+      'Tangub',
+      'Villamonte',
+      'Vista Alegre',
+      'Barangay 1',
+      'Barangay 2',
+      'Barangay 3',
+      'Barangay 4',
+      'Barangay 5',
+      'Barangay 6',
+      'Barangay 7',
+      'Barangay 8',
+      'Barangay 9',
+      'Barangay 10',
+      'Barangay 11',
+      'Barangay 12',
+      'Barangay 13',
+      'Barangay 14',
+      'Barangay 15',
+      'Barangay 16',
+      'Barangay 17',
+      'Barangay 18',
+      'Barangay 19',
+      'Barangay 20',
+      'Barangay 21',
+      'Barangay 22',
+      'Barangay 23',
+      'Barangay 24',
+      'Barangay 25',
+      'Barangay 26',
+      'Barangay 27',
+      'Barangay 28',
+      'Barangay 29',
+      'Barangay 30',
+      'Barangay 31',
+      'Barangay 32',
+      'Barangay 33',
+      'Barangay 34',
+      'Barangay 35',
+      'Barangay 36',
+      'Barangay 37',
+      'Barangay 38',
+      'Barangay 39',
+      'Barangay 40',
+      'Barangay 41',
+    ];
+    brgys.forEach(b =>
+      items.push({ title: `Barangay ${b}`, href: '/government' })
+    );
+    // Pages & Info
+    items.push(
+      { title: 'City Officials', href: '/government' },
+      { title: 'City Departments', href: '/government' },
+      { title: 'All Barangays', href: '/government' },
+      { title: 'Flood Control Projects', href: '/transparency' },
+      { title: 'Budget Information', href: '/transparency' },
+      { title: 'Procurement PhilGEPS', href: '/transparency' },
+      { title: 'Emergency Hotlines', href: '/about' },
+      { title: 'About Bacolod City', href: '/about' },
+      { title: 'MassKara Festival', href: '/about' },
+      { title: 'City of Smiles', href: '/about' },
+      { title: '911 Emergency', href: '/about' }
+    );
+    return items;
+  }, []);
+
+  const filtered = useMemo(() => {
+    if (!searchQuery.trim()) return [];
+    const q = searchQuery.toLowerCase();
+    return allItems.filter(i => i.title.toLowerCase().includes(q)).slice(0, 6);
+  }, [searchQuery, allItems]);
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
     if (searchQuery.trim()) {
       navigate(`/search?q=${encodeURIComponent(searchQuery)}`);
+      setShowDropdown(false);
     }
   };
 
@@ -101,10 +249,29 @@ export default function Hero() {
                   <input
                     type="text"
                     value={searchQuery}
-                    onChange={e => setSearchQuery(e.target.value)}
+                    onChange={e => {
+                      setSearchQuery(e.target.value);
+                      setShowDropdown(true);
+                    }}
+                    onFocus={() => setShowDropdown(true)}
+                    onBlur={() => setTimeout(() => setShowDropdown(false), 150)}
                     placeholder="Search services, permits, information..."
                     className="w-full pl-11 pr-4 py-3 text-sm text-gray-900 bg-white border-2 border-primary-100 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-primary-500 placeholder-gray-400 transition-all"
                   />
+                  {showDropdown && filtered.length > 0 && (
+                    <div className="absolute top-full left-0 right-0 mt-1 bg-white border rounded-lg shadow-lg z-50 overflow-hidden">
+                      {filtered.map((item, i) => (
+                        <Link
+                          key={i}
+                          to={item.href}
+                          className="block px-4 py-2 text-sm text-gray-700 hover:bg-primary-50 hover:text-primary-700"
+                          onClick={() => setShowDropdown(false)}
+                        >
+                          {item.title}
+                        </Link>
+                      ))}
+                    </div>
+                  )}
                 </div>
               </form>
 
