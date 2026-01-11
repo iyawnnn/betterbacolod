@@ -1,6 +1,6 @@
-# Request Special Collection Services for Hazardous Waste & E-Waste — Lapu-Lapu City
+# Request Special Collection Services for Hazardous Waste & E-Waste — Bacolod City
 
-Hazardous and electronic wastes (e-waste) cannot be disposed of with regular garbage. The City Environment and Natural Resources Office (CENRO) and barangays coordinate **special collection drives** and drop-off services for these items.
+Hazardous and electronic wastes (e-waste) cannot be disposed of with regular garbage. The City Environment and Natural Resources Office (BENRO) and barangays coordinate **special collection drives** and drop-off services for these items.
 
 ---
 
@@ -20,8 +20,8 @@ Hazardous and electronic wastes (e-waste) cannot be disposed of with regular gar
    - Ask for the **Barangay Environment Committee** or Solid Waste desk.
    - Provide details: type of waste, approximate volume, and your address.
 
-2. **Barangay forwards request to CENRO**
-   - CENRO schedules a **special truck pickup** or directs you to the next citywide collection event.
+2. **Barangay forwards request to BENRO**
+   - BENRO schedules a **special truck pickup** or directs you to the next citywide collection event.
    - Some barangays coordinate with **accredited junkshops/recyclers**.
 
 3. **Prepare items for pickup/drop-off**
@@ -29,7 +29,7 @@ Hazardous and electronic wastes (e-waste) cannot be disposed of with regular gar
    - Do not mix hazardous waste with household garbage.
 
 4. **Follow the scheduled collection**
-   - Place items outside only when instructed, or bring them to the barangay/CENRO drop-off point.
+   - Place items outside only when instructed, or bring them to the barangay/BENRO drop-off point.
 
 ---
 
@@ -37,18 +37,25 @@ Hazardous and electronic wastes (e-waste) cannot be disposed of with regular gar
 
 - **Barangay E-Waste Drives** — many barangays organize quarterly e-waste collection campaigns.
 - **School/NGO Drives** — occasionally schools or civic groups run e-waste donation drives in coordination with the City.
-- **Accredited Junkshops/Collectors** — some accept electronics for recycling; ask CENRO for the accredited list.
+- **Accredited Junkshops/Collectors** — some accept electronics for recycling; ask BENRO for the accredited list.
 
 ---
 
 ## 4) Contact Information
 
-- **City Environment and Natural Resources Office (CENRO)**  
-  Lapu-Lapu City Hall, Government Complex, Brgy. Pajo  
-  Phone: (032) 340-0004 (City Hall trunkline, ask for CENRO)  
-  Updates: [Lapu-Lapu City Government Facebook Page](https://www.facebook.com/lapulapucitygovernment)
+- **Bacolod Environment and Natural Resources Office (BENRO)**
+- **Phone**: (034) 434-9122
+- **Location**: Bacolod City Government Center, Circumferential Rd, Brgy. Villamonte, Bacolod City, 6100 Negros Occidental
+- **Website**: [bacolodcity.gov.ph](https://bacolodcity.gov.ph/bacolod-environment-and-natural-resources/)
 
-- **Barangay Halls** — Environment/Solid Waste desk for barangay-level pickup scheduling.
+- **Barangay Halls** — Environment/Solid Waste desk for barangay-level pickup scheduling
+
+---
+
+**Sources:**
+
+- [Bacolod Environment and Natural Resources Office](https://bacolodcity.gov.ph/bacolod-environment-and-natural-resources/) — Jan 8, 2026
+- [Bacolod City Contact Information](https://bacolodcity.gov.ph/contact-us/) — Jan 8, 2026
 
 ---
 
@@ -64,4 +71,4 @@ Hazardous and electronic wastes (e-waste) cannot be disposed of with regular gar
 ### Reminder
 
 ✅ Never dispose of hazardous waste or e-waste with your regular garbage.  
-✅ Always coordinate with your **Barangay Hall** or **CENRO** for proper and safe collection.
+✅ Always coordinate with your **Barangay Hall** or **BENRO** for proper and safe collection.

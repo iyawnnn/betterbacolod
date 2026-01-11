@@ -1,0 +1,19 @@
+# Legal & Civil Services Category Pages
+# This file contains all the pages/services available under the Legal & Civil Services category
+
+pages:
+  - name: 'Get Birth, Marriage, or Death Certificates'
+    slug: 'get-birth-marriage-death-certificates'
+    description: 'Apply for civil registry documents from Local Civil Registrar. Birth, marriage, death certificates, and marriage licenses.'
+
+  - name: 'Access Free Legal Assistance'
+    slug: 'access-free-legal-assistance'
+    description: 'Free legal aid from PAO for indigent citizens. Legal advice, representation, and assistance with cases.'
+
+  - name: 'Get Documents Notarized'
+    slug: 'get-documents-notarized'
+    description: 'Notarial services for affidavits, contracts, and legal documents. Where to find notaries public in Bacolod.'
+
+  - name: 'Apply for Community Tax Certificate (Cedula)'
+    slug: 'apply-for-community-tax-certificate-cedula'
+    description: 'Get your cedula from City Treasurer or Barangay Hall. Required for many transactions and employment.'

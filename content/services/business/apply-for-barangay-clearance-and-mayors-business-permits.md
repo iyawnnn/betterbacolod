@@ -1,65 +1,66 @@
-# How to Set Up a Business Partnership
+# Apply for Business Permits — Bacolod City
 
-## Step 1: Register with SEC
+Bacolod City offers streamlined business permit processing through the **Business Permits and Licensing Division (BPLO)** and the **Business One-Stop Shop (BOSS)**.
 
-**Prepare documents:**
+---
 
-- Partnership name (check via [SEC eSPARC](https://espac.sec.gov.ph/))
-- Notarized Articles of Partnership
-- IDs/TINs of partners, office address, capital structure
+## Business One-Stop Shop (BOSS)
 
-**File online** through [SEC eSPARC](https://espac.sec.gov.ph/) and pay fees.
+**What**: All business permit requirements processed in one location  
+**Where**: Bacolod City Government Center lobby  
+**When**: Extended until March 31, 2026  
+**Services**: Fire Safety Certificate, Sanitation Certificate, Building Permit, Occupancy Permit, Business Permit
 
-**Output:** SEC Certificate of Recording + Approved Business Name
+---
 
-## Step 2: Apply for Business Permit
+## Requirements
 
-Go to **Lapu-Lapu City BPLO** (Business Permit and Licensing Office).
+### For New Business
 
-**Requirements:**
+- Barangay Clearance
+- DTI/SEC/CDA Registration
+- Lease Contract or Proof of Ownership
+- Valid ID of owner
+- Other requirements depending on business type
 
-- Unified Application Form
-- SEC Certificate of Registration + Articles of Partnership
-- Occupancy Permit (if owner) OR Lease Contract (if renting)
-- Community Tax Certificate (CTC)
+### For Renewal
 
-Apply in person or online via [Lapu-Lapu Online Business Permit Portal](https://businesspermit.lapulapucity.gov.ph/).
+- Previous year's Business Permit
+- Official Receipt of payment
+- Updated documents (if any changes)
 
-> Note: Inspections may include zoning, sanitary, and fire safety checks.
+**Download**: [2025 Business Permit Checklist](https://bacolodcity.gov.ph/business-permits-and-licensing-division/)
 
-## Step 3: Register with BIR
+---
 
-File at the **BIR Revenue District Office (RDO)** where your office is located.
+## How to Apply
 
-- Fill out [BIR Form 1903](https://www.bir.gov.ph/images/1903%20Jan%202024.pdf)
-- Submit SEC Certificate + Articles of Partnership + valid IDs
-- Pay registration fee + Documentary Stamp Tax (DST)
+1. **Get Barangay Clearance** from your barangay
+2. **Go to BOSS** at Bacolod City Government Center lobby
+3. **Submit requirements** at the BPLO counter
+4. **Process clearances** (Fire, Sanitation, Building) at BOSS
+5. **Pay fees** at the Treasurer's Office
+6. **Claim permit** after processing
 
-**Within 30 days of receiving BIR Certificate:**
+---
 
-- Apply for Authority to Print Receipts (Form 1906) OR enroll in e-invoicing
-- Register your Books of Accounts
+## Contact Information
 
-## Step 4: Register as Employer (if hiring)
+- **Business Permits and Licensing Division (BPLO)**
+- **Phone**: (034) 434-9122
+- **Email**: bplo@bacolodcity.gov.ph
+- **Location**: Bacolod City Government Center, Circumferential Rd, Brgy. Villamonte, Bacolod City, 6100 Negros Occidental
+- **Website**: [bacolodcity.gov.ph](https://bacolodcity.gov.ph/business-permits-and-licensing-division/)
+- **Online Services**: [onlineservices.bacolodcity.gov.ph](https://onlineservices.bacolodcity.gov.ph/)
 
-Enroll with:
+---
 
-- [SSS](https://www.sss.gov.ph/)
-- [PhilHealth](https://www.philhealth.gov.ph/)
-- [Pag-IBIG](https://www.pagibigfund.gov.ph/)
+**Note:** Requirements may vary by business type. Check the official checklist or contact BPLO for specific requirements.
 
-## Process Flow
+---
 
-1. SEC name check + register via [SEC eSPARC](https://espac.sec.gov.ph/)
-2. Secure Barangay Certification + site/lease documents
-3. Apply for Business Permit at [Lapu-Lapu BPLO](https://businesspermit.lapulapucity.gov.ph/)
-4. File BIR Form 1903 → apply ATP → register books
+**Sources:**
 
-## Document Checklist
-
-- [ ] SEC Articles of Partnership + SEC Certificate
-- [ ] Lease Contract OR Occupancy/Building docs
-- [ ] Lapu-Lapu BPLO Unified Application Form + CTC
-- [ ] BIR Form 1903, IDs, ATP/Books
-
-With these steps, your partnership in Lapu-Lapu City will be fully compliant and ready to operate!
+- [Business Permits and Licensing Division](https://bacolodcity.gov.ph/business-permits-and-licensing-division/) — Jan 8, 2026
+- [Bacolod City Contact Information](https://bacolodcity.gov.ph/contact-us/) — Jan 8, 2026
+- [Online Services Portal](https://onlineservices.bacolodcity.gov.ph/) — Jan 8, 2026

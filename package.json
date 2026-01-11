@@ -14,7 +14,10 @@
     "prepare": "husky",
     "convert-yaml": "node scripts/yaml-to-json.js",
     "dev:yaml": "npm run convert-yaml && npm run dev",
-    "setup": "node scripts/setup-starter-kit.js"
+    "setup": "node scripts/setup-starter-kit.js",
+    "scrape": "node .claude/scripts/scraper.js",
+    "scrape:health": "node .claude/scripts/scraper.js --checklist docs/bacolod/SCRAPING-CHECKLIST.md --category health --extract-fb --extract-portals",
+    "scrape:business": "node .claude/scripts/scraper.js --checklist docs/bacolod/SCRAPING-CHECKLIST.md --category business --extract-fb --extract-portals"
   },
   "lint-staged": {
     "*.{js,jsx,ts,tsx}": [

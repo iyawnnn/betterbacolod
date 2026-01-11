@@ -1,6 +1,6 @@
-# Report Illegal Dumping & Waste Management Violations — Lapu-Lapu City
+# Report Illegal Dumping & Waste Management Violations — Bacolod City
 
-Illegal dumping, open burning, and improper waste practices are violations of **Republic Act 9003 (Ecological Solid Waste Management Act)** and city ordinances. Residents are encouraged to report offenders to help keep Lapu-Lapu City clean and safe.
+Illegal dumping, open burning, and improper waste practices are violations of **Republic Act 9003 (Ecological Solid Waste Management Act)** and city ordinances. Residents are encouraged to report offenders to help keep Bacolod City clean and safe.
 
 ---
 
@@ -23,20 +23,21 @@ Illegal dumping, open burning, and improper waste practices are violations of **
    - Ask for the **Barangay Environment/Solid Waste Committee**.
    - Provide: **exact location**, **type of violation**, **time/date**, and **photos/videos** if possible.
 
-2. **City Environment and Natural Resources Office (CENRO)**
-   - If the violation is large-scale, recurring, or unaddressed by the barangay, contact **CENRO** at City Hall.
-   - Phone: (032) 340-0004 (City Hall trunkline, ask for CENRO)
-   - Updates and announcements: [Lapu-Lapu City Government Facebook Page](https://www.facebook.com/lapulapucitygovernment)
+2. **Bacolod Environment and Natural Resources Office (BENRO)**
+   - If the violation is large-scale, recurring, or unaddressed by the barangay, contact **BENRO** at City Hall
+   - **Phone**: (034) 434-9122
+   - **Location**: Bacolod City Government Center, Circumferential Rd, Brgy. Villamonte, Bacolod City
+   - **Website**: [bacolodcity.gov.ph](https://bacolodcity.gov.ph/bacolod-environment-and-natural-resources/)
 
 3. **Other Hotlines**
-   - **City Information Office (CIO):** (032) 340-1615 (for reports and follow-up).
-   - **Philippine National Police (PNP):** for dumping that threatens public safety or involves large-scale transport.
+   - **City Hotlines**: Check [bacolodcity.gov.ph/hotlines](https://bacolodcity.gov.ph/hotlines/) for full directory
+   - **Philippine National Police (PNP)**: For dumping that threatens public safety or involves large-scale transport
 
 ---
 
 ## 3) What Happens After Reporting
 
-- **Barangay/CENRO inspection team** will visit the site.
+- **Barangay/BENRO inspection team** will visit the site.
 - **Offenders may be fined or penalized** under city ordinances.
 - For businesses, repeated violations can lead to **closure or suspension of business permits**.
 - Collected evidence (photos, witness accounts) strengthens enforcement action.
@@ -62,4 +63,12 @@ Illegal dumping, open burning, and improper waste practices are violations of **
 
 ### Key Reminder
 
-✅ Reporting waste violations is a **civic duty**. By promptly alerting your barangay or CENRO, you help protect your community’s health, prevent flooding, and keep Lapu-Lapu City sustainable.
+✅ Reporting waste violations is a **civic duty**. By promptly alerting your barangay or BENRO, you help protect your community's health, prevent flooding, and keep Bacolod City sustainable.
+
+---
+
+**Sources:**
+
+- [Bacolod Environment and Natural Resources Office](https://bacolodcity.gov.ph/bacolod-environment-and-natural-resources/) — Jan 8, 2026
+- [Bacolod City Hotlines](https://bacolodcity.gov.ph/hotlines/) — Jan 8, 2026
+- [Bacolod City Contact Information](https://bacolodcity.gov.ph/contact-us/) — Jan 8, 2026

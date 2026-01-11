@@ -1,81 +1,77 @@
-# Join Health Programs — Lapu-Lapu City (Nutrition, Dengue Control, TB Treatment)
+# Join Health Programs — Bacolod City (Nutrition, Dengue Control, TB Treatment)
 
-Below are city-led and national programs you can join through your **Barangay Health Center** and the **City Health Office (CHO)**.
-
----
-
-## 1) Nutrition Programs
-
-**What’s offered**
-
-- Supplementary feeding for day-care children.
-- Community nutrition activities such as breastfeeding promotion, growth monitoring, and health education.
-- Special events during Nutrition Month (July) and city-wide wellness programs.
-
-**Who can join**
-
-- Day-care children and families identified by barangays or CSWD.
-- Residents may also take part in open city nutrition events.
-
-**How to join**
-
-1. Visit your **Barangay Health Center** or ask the **Barangay Nutrition Scholar (BNS)** about ongoing feeding programs.
-2. Join community activities and city-wide nutrition events announced by the **City Health Office (CHO)** or City Information Office.
-
-**Cost:** Free for eligible beneficiaries.
+Bacolod City offers various **health programs** through the City Health Office and barangay health centers.
 
 ---
 
-## 2) Dengue Control Programs
+## 1. Nutrition Programs
 
-**What’s offered**
+### For Children
 
-- Community clean-up drives under the **ABKD (Aksyon Barangay Kontra Dengue)** program.
-- Daily “4 o’clock habit” — searching and destroying mosquito breeding sites.
-- Misting, fogging, and entomological surveys led by the CHO.
-- Information campaigns during Dengue Awareness Month and rainy season.
+- **Supplementary feeding programs**
+- **Vitamin A supplementation**
+- **Deworming**
 
-**How to join**
+### For Pregnant/Lactating Women
 
-1. Take part in barangay clean-up drives and follow the **4S strategy** (Search & Destroy, Self-protection, Seek early consultation, Support fogging/misting).
-2. Cooperate when CHO teams conduct **misting** or **house-to-house larval checks**.
+- **Iron and folic acid supplements**
+- **Nutrition counseling**
 
-**Cost:** Free; no registration needed.
-
----
-
-## 3) TB Treatment (NTP TB-DOTS)
-
-**What’s offered**
-
-- Free consultations, diagnostic tests, and full course of anti-TB medicines under the **National Tuberculosis Program (NTP)**.
-- Supervised treatment through the **Directly Observed Therapy Short-course (DOTS)** approach.
-
-**Where**
-
-- Lapu-Lapu City Health Office (DOTS facility) and affiliated barangay health centers.
-
-**How to join**
-
-1. Go to your **Barangay Health Center** or the **CHO DOTS Clinic** for TB screening.
-2. If diagnosed, you will be enrolled in DOTS — treatment and medicines are given for free.
-3. Regular follow-up visits will be scheduled to monitor your recovery.
-
-**Cost:** Free for all TB patients.
+**Where**: Barangay Health Centers  
+**Schedule**: Check with your local health center
 
 ---
 
-## Contact & Updates
+## 2. Dengue Control & Prevention
 
-- **Barangay Health Centers** — First point of contact for nutrition, dengue, and TB programs.
-- **Lapu-Lapu City Health Office (CHO)** — Main office for program schedules and services.
-- **City Information Office** — Posts updates on city-wide campaigns and health events.
+- **Misting/fogging** in affected areas
+- **Clean-up drives** (4S strategy: Search and destroy, Self-protection, Seek early consultation, Say no to indiscriminate fogging)
+- **Health education** on dengue prevention
+
+**Report dengue cases**: City Health Office (034) 434-9122
 
 ---
 
-### Quick Tips
+## 3. TB Treatment (DOTS Program)
 
-- Bring a **valid ID** and your **barangay health record** (if you already have one).
-- For TB symptoms (cough for 2 weeks or more, weight loss, night sweats), seek screening immediately.
-- Join community clean-up drives and practice the 4 o’clock habit to prevent dengue.
-- Attend barangay nutrition events and feeding programs for your children’s growth and wellness.
+### Free TB Services
+
+- **TB screening and diagnosis**
+- **Free TB medicines** (6-month treatment)
+- **Regular monitoring** by health workers
+
+**Where**: City Health Office, Barangay Health Centers  
+**Requirements**: Sputum test, chest X-ray (if needed)
+
+---
+
+## How to Join
+
+1. **Visit** your Barangay Health Center or City Health Office
+2. **Register** for the program you need
+3. **Follow** the schedule for check-ups and services
+
+---
+
+## Contact Information
+
+- **City Health Office (CHO)**
+- **Phone**: (034) 434-9122
+- **Email**: cho@bacolodcity.gov.ph
+- **Location**: Bacolod City Government Center, Circumferential Rd, Brgy. Villamonte, Bacolod City, 6100 Negros Occidental
+- **Hours**: Mon–Fri, 8 AM–5 PM
+- **Website**: [bacolodcity.gov.ph](https://bacolodcity.gov.ph)
+- **Facebook**: [Bacolod City Comprehensive Health Program](https://www.facebook.com/bacchp2022)
+
+---
+
+**Note:** Health programs follow Department of Health (DOH) national guidelines.
+
+---
+
+**Sources:**
+
+- [Bacolod City Comprehensive Health Program](https://bacolodcity.gov.ph/bacolod-city-comprehensive-health-program/) — Jan 8, 2026
+- [City Health Office](https://bacolodcity.gov.ph/sanitary-and-non-sanitary-permit-requirements/) — Jan 8, 2026
+- [Bacolod City Contact Information](https://bacolodcity.gov.ph/contact-us/) — Jan 8, 2026
+- **FB:** [Bacolod City Comprehensive Health Program](https://www.facebook.com/bacchp2022) (Verified)

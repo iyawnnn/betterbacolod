@@ -1,49 +1,69 @@
-# Access Maternal Care & Child Immunization — Lapu-Lapu City
+# Access Maternal Care & Child Immunization — Bacolod City
 
-The City Health Office (CHO) and barangay health centers provide **prenatal care**, **family planning**, and **free routine child immunization** for residents.
-
----
-
-## Maternal Care (Prenatal & Related Services)
-
-| Service                                                             | Where                       | Schedule                                                               | Requirements                                    | Cost                                                       |
-| ------------------------------------------------------------------- | --------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------------- |
-| Prenatal check-ups (by midwife/nurse; physician referral as needed) | **Barangay Health Centers** | Mon–Fri (typical clinic hours; varies by center)                       | Prenatal record (issued/updated at first visit) | **Free**                                                   |
-| Family Planning counseling & methods                                | **Barangay Health Centers** | Mon–Fri **8:00 AM–4:00 PM**; Sat **8:00 AM–1:00 PM** (except holidays) | Personal appearance for counseling              | **Free** counseling (methods per DOH program availability) |
-
-**Tip:** Bring any previous prenatal card/records and a valid ID. If you’re new, staff will register you and issue the needed record at the health center.
+Bacolod City provides **free maternal health services** and **child immunization programs** through barangay health centers and the City Health Office.
 
 ---
 
-## Child Immunization (EPI)
+## Maternal Care Services
 
-Routine childhood vaccines are provided **free** under the Expanded Program on Immunization (EPI).
+### Prenatal Check-ups
 
-| Age/Visit                          | Vaccines (examples)                                                        | Where                       | Regular Day/Time                                  | Requirements                          | Cost     |
-| ---------------------------------- | -------------------------------------------------------------------------- | --------------------------- | ------------------------------------------------- | ------------------------------------- | -------- |
-| Birth–12 months (per DOH schedule) | **BCG**, **Pentavalent**, **OPV/IPV**, **MMR**, **Hepatitis B**, **PCV13** | **Barangay Health Centers** | **Wednesdays, 8:00 AM–4:00 PM** (except holidays) | **ECCD card** (issued on first visit) | **Free** |
+- **Where**: Barangay Health Centers
+- **Schedule**: Mon–Fri, 8 AM–5 PM (varies by center)
+- **What's Included**: Regular check-ups, vitamins, Tetanus Toxoid vaccine, health education
+- **Requirements**: Proof of pregnancy, ECCD/health record
 
-> First time? The health worker will **issue an ECCD card** and guide you on next-dose return dates.
+### Delivery Assistance
 
----
-
-## How to Avail (Quick Steps)
-
-1. **Go to your Barangay Health Center** during clinic hours (or the posted EPI day for vaccines).
-2. **Register/Update your record:** Prenatal record for mothers, **ECCD card** for children (issued if first time).
-3. **Receive service:** Prenatal assessment, counseling (and TT vaccine/supplements per program), or child vaccination per EPI schedule.
-4. **Book your return date** for follow-ups and next vaccine doses as advised by the health staff.
+- **Where**: City Health Office, partner hospitals
+- **What's Included**: Assisted delivery, postnatal care
+- **Requirements**: Prenatal records, valid ID
 
 ---
 
-## Notes & Extras
+## Child Immunization
 
-- **Medical consultations** at health centers are **free** (Mon–Fri, 8:00 AM–5:00 PM; center schedules apply). Useful if you need a doctor’s assessment alongside prenatal care.
-- The CHO and health centers also run **mother’s classes** and promote **facility-based delivery**; ask your midwife for schedules.
+### Routine Vaccines (EPI Program)
+
+| Vaccine              | Age/Schedule                | Where                   |
+| -------------------- | --------------------------- | ----------------------- |
+| BCG, Hepatitis B     | At birth                    | Barangay Health Centers |
+| Pentavalent, OPV/IPV | 6 weeks, 10 weeks, 14 weeks | Barangay Health Centers |
+| MMR, PCV13           | 9-12 months                 | Barangay Health Centers |
+
+### Immunization Schedule
+
+- **When**: Typically Wednesdays, 8 AM–4 PM (check with your barangay health center)
+- **Requirements**: ECCD card (first-timers can get one onsite)
 
 ---
 
-**References**
+## How to Access
 
-- [Lapu-Lapu City Government – Services](https://lapulapucity.gov.ph)
-- [Department of Health – Expanded Program on Immunization](https://doh.gov.ph)
+1. **Prenatal Care** → Visit your barangay health center; bring proof of pregnancy
+2. **Child Immunization** → Go to your barangay health center on immunization day with ECCD card
+3. **Delivery** → Coordinate with your barangay health center or City Health Office
+
+---
+
+## Contact Information
+
+- **City Health Office (CHO)**
+- **Phone**: (034) 434-9122
+- **Email**: cho@bacolodcity.gov.ph
+- **Location**: Bacolod City Government Center, Circumferential Rd, Brgy. Villamonte, Bacolod City, 6100 Negros Occidental
+- **Hours**: Mon–Fri, 8 AM–5 PM
+- **Website**: [bacolodcity.gov.ph](https://bacolodcity.gov.ph)
+- **Facebook**: [Bacolod City Comprehensive Health Program](https://www.facebook.com/bacchp2022)
+
+---
+
+**Note:** Maternal and child health programs follow Department of Health (DOH) guidelines.
+
+---
+
+**Sources:**
+
+- [Bacolod City Comprehensive Health Program](https://bacolodcity.gov.ph/bacolod-city-comprehensive-health-program/) — Jan 8, 2026
+- [Bacolod City Contact Information](https://bacolodcity.gov.ph/contact-us/) — Jan 8, 2026
+- **FB:** [Bacolod City Comprehensive Health Program](https://www.facebook.com/bacchp2022) (Verified)

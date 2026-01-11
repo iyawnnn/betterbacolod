@@ -1,112 +1,87 @@
-# Apply for Local Scholarships — Lapu-Lapu City
+# Apply for Local Scholarships — Bacolod City
 
-Use this guide to find **City/LGU**, **Congressional/partner**, **local college**, and **national** scholarship options you can apply for while based in **Lapu-Lapu City**.
-
----
-
-## 1) City/LGU Scholarship Programs
-
-| Program                                           | Who it’s for                                                                                           | What it covers\*                                                          | Where to apply                  | Notes                                                                                                                                                                                                         |
-| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lapu-Lapu City Government College Scholarship** | Lapu-Lapu City residents (typically Senior High / incoming college; priority to low-income households) | Tuition/fees or full scholarship, depending on intake and partner schools | City Hall / posted online calls | The city has historically opened slots for poor residents and tied these to local HEIs during certain intakes. Check latest calls from City Hall / Office of the Mayor. :contentReference[oaicite:0]{index=0} |
-
-\*Coverage varies by year/partner school; always verify the current announcement.
-
-**How to apply (typical flow)**
-
-1. Watch for the **official call for applications** from the **Lapu-Lapu City Government** (FB/website or City Information Office). :contentReference[oaicite:1]{index=1}
-2. Prepare documents (see **Common Requirements** below).
-3. Submit your application at the designated **LGU window/online form** and attend evaluation/orientation if shortlisted.
+Bacolod City offers scholarship programs through the **Public Employment Services Office (PESO)** and partners with local colleges.
 
 ---
 
-## 2) Congressional / Partner Scholarship Slots
+## PESO Scholarship Program
 
-| Program                                                                                       | Who it’s for                                   | What it covers                                          | Where to apply                                                                   | Notes                                                                                                                |
-| --------------------------------------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| **Mayor Junard “Ahong” Chan & First Lady Ma. Cynthia King-Chan Scholarship** (periodic calls) | City residents, course/partner-school specific | Tuition assistance/full scholarship depending on cohort | Calls posted by the **Office of the Mayor** / **Office of Rep. Cindi King-Chan** | Look for official FB announcements with the **requirements and deadlines**. :contentReference[oaicite:2]{index=2}    |
-| **International/partner school opportunities**                                                | Senior High/college grads                      | Tuition discounts/scholarships via MOUs                 | Via partner school announcements & City coordination                             | Example: Taiwan partner university opportunities highlighted by city partners. :contentReference[oaicite:3]{index=3} |
+The Bacolod City Government provides scholarship assistance to deserving students through PESO.
 
----
+**What's offered:**
 
-## 3) Local Colleges & Their In-House Scholarships
+- Financial allowance for scholars (₱3,000 per distribution)
+- 814 scholars currently enrolled in the program (as of December 2024)
+- Regular allowance releases throughout the school year
 
-| School                                         | Scholarship page/info                                                        | Notes                                                                                                                                 |
-| ---------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lapu-Lapu City College (LLCC)**              | School site lists contacts; ask registrar/scholarship desk for current slots | City college; scholarship rules and timing set per semester. :contentReference[oaicite:4]{index=4}                                    |
-| **University of Cebu** (Mactan/Main system)    | Public scholarship lists & requirements                                      | UC posts scholarship requirements (e.g., academic honors, docs). Availability varies by campus. :contentReference[oaicite:5]{index=5} |
-| **LCIC (Lapulapu-Cebu International College)** | Scholarship page with program specifics                                      | Has its own discounts/scholarships; separate from LGU. :contentReference[oaicite:6]{index=6}                                          |
+**Who can apply:**
 
-> Tip: Even if you’re targeting an **LGU scholarship**, apply to your target school’s **in-house scholarship** too. Slots stack or complement depending on rules.
+- Bacolod City residents
+- Currently enrolled college students
+- From low-income families
 
----
+**Requirements (typical):**
 
-## 4) National Programs You Can Apply For While Based in Lapu-Lapu
+- Barangay Certificate (proof of residency)
+- PSA Birth Certificate
+- School enrollment/registration documents
+- Report card/grades
+- Certificate of Indigency or Income documents
+- 2x2 ID photos
 
-| Program                                                             | Who it’s for                                                  | Typical coverage                                          | Where to file                                                                                                               |
-| ------------------------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| **CHED Merit Scholarship (CMSP)**                                   | Incoming/continuing college with merit + income criteria      | Stipend + book/tuition assistance (per CHED rules)        | CHED’s official calls/portals (watch national page) :contentReference[oaicite:7]{index=7}                                   |
-| **OWWA EDSP/ODSP** (for OFW dependents)                             | Qualified dependents of active OWWA members                   | EDSP up to ₱60k/yr; ODSP up to ₱20k/yr (amounts per call) | OWWA Scholarship portal; local **PESO Lapu-Lapu** often posts the call window :contentReference[oaicite:8]{index=8}         |
-| **Cebu Province scholarships** (if eligible as provincial resident) | Cebu Province residents (check city/province residency rules) | Tuition/stipend per program                               | Province announcements; verify residency eligibility vs. highly urbanized city status :contentReference[oaicite:9]{index=9} |
+**How to apply:**
 
----
-
-## Common Requirements (have these ready)
-
-- **Proof of residency** (Barangay Certificate)
-- **Birth certificate** (PSA)
-- **Report card/grades** (JHS/SHS/college)
-- **Good moral certificate** (from school)
-- **Income documents** (parents’ ITR/Certificate of Non-Filing/indigency, depending on program)
-- **Photos/ID** (2×2 or passport size)
-- **Admission/Enrollment proof** (if already admitted)
-
-(Exact lists vary per program; always follow the posted checklist.)
+1. Watch for official announcements from PESO Bacolod
+2. Submit requirements during application period
+3. Attend screening/interview if shortlisted
+4. Sign scholarship agreement if accepted
 
 ---
 
-## Step-by-Step: How to Apply
+## Local Colleges with Scholarship Programs
 
-1. **Pick your target programs**
-   - City/LGU scholarship (watch City Hall channels), school-based scholarship, and at least one national program.
-
-2. **Check the current call**
-   - Read the **eligibility, coverage, and deadline**. Save the announcement.
-
-3. **Assemble documents**
-   - Use the checklist above; request certificates early (Barangay, School Registrar, BIR/Barangay for income).
-
-4. **Submit**
-   - Follow the **specified portal or window**. Keep digital scans (PDF) for online filing.
-
-5. **Monitor & attend screening**
-   - Answer calls/emails, attend orientation/interviews, and **sign the scholarship agreement** if accepted.
-
-6. **Comply every term**
-   - Maintain the **required GWA**, submit grade reports on time, and **renew** each semester/year.
+| School                                          | Notes                                         |
+| ----------------------------------------------- | --------------------------------------------- |
+| **Bacolod City College**                        | City-run college with scholarship slots       |
+| **University of Negros Occidental - Recoletos** | Private university with academic scholarships |
+| **STI West Negros University**                  | Private college with merit-based grants       |
+| **La Consolacion College Bacolod**              | Private college with financial aid programs   |
 
 ---
 
-## Where to Watch for Announcements
+## National Programs Available
 
-- LCIC’s website → “Scholarship” section
-- University of Cebu’s “Scholarship & Study Grants” page
-- DepEd Lapu-Lapu City’s official site / memorandums
-- City Government announcements (City Hall / Information Office)
-
----
-
-### Example Applications Available Now
-
-- [LCIC Scholarship Page](https://lcic.edu.ph/scholarship.html)
-- [UC Scholarships & Study Grants](https://www.universityofcebu.net/p/scholarship.html)
-- [DOST-SEI S&T Scholarship (Grade 12 applicants)](https://depedlapulapu.net.ph/download/dm-no-723-s-2024-2025-dost-sei-s-t-undergraduate-scholarship-applications-for-grade-12-senior-high-school-students/)
-- [English Access Program (DepEd Lapu-Lapu)](https://depedlapulapu.net.ph/download/dm-no-064-s-2025-english-access-scholarship-program/)
+| Program                  | Who it's for                                  | Where to apply       |
+| ------------------------ | --------------------------------------------- | -------------------- |
+| **CHED Scholarship**     | College students with merit + income criteria | CHED regional office |
+| **OWWA EDSP/ODSP**       | Dependents of OFW members                     | OWWA or PESO Bacolod |
+| **DOST-SEI Scholarship** | STEM students                                 | DOST regional office |
 
 ---
 
-### Reminders
+## Contact Information
 
-- **Deadlines change every cycle.** Always follow the **current** call post.
-- **Coverage differs by program & year.** Read the fine print (tuition vs. full).
-- **Apply to multiple programs** to improve your chances and coverage.
+- **Public Employment Services Office (PESO) Bacolod**
+- **Phone**: (034) 434-9122
+- **Email**: peso@bacolodcity.gov.ph
+- **Location**: Bacolod City Government Center, Circumferential Rd, Brgy. Villamonte, Bacolod City, 6100 Negros Occidental
+- **Website**: [bacolodcity.gov.ph](https://bacolodcity.gov.ph/trabaho-sa-peso-bacolod/)
+- **Facebook**: [PESO Bacolod LGU](https://www.facebook.com/PesoBacolodLGU)
+
+---
+
+## Tips
+
+- Apply to multiple programs to increase your chances
+- Keep documents ready (birth certificate, barangay certificate, grades)
+- Follow PESO Bacolod on Facebook for announcements
+- Deadlines change every cycle - always check current postings
+
+---
+
+**Sources:**
+
+- [Bacolod LGU Releases Christmas Allowance to 814 Scholars](https://bacolodcity.gov.ph/bacolod-lgu-releases-christmas-allowance-to-814-scholars/) — Dec 24, 2025
+- [Trabaho sa PESO Bacolod](https://bacolodcity.gov.ph/trabaho-sa-peso-bacolod/) — Jan 8, 2026
+- [Bacolod City Contact Information](https://bacolodcity.gov.ph/contact-us/) — Jan 8, 2026
+- **FB:** [PESO Bacolod LGU](https://www.facebook.com/PesoBacolodLGU) (Verified)
