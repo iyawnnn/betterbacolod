@@ -17,7 +17,7 @@ export default function SEO({
   image,
   url,
   type = 'website',
-  siteName = import.meta.env.VITE_GOVERNMENT_NAME || 'Local Government Website',
+  siteName = 'BetterBacolod',
 }: SEOProps) {
   const defaultTitle = `${siteName} - Official Government Website`;
   const defaultDescription =
