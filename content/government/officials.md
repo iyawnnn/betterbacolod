@@ -6,24 +6,24 @@
 
 **Hon. Greg Gasataya** — 44th Mayor of Bacolod City
 
-|        |                                                     |
-| ------ | --------------------------------------------------- |
-| Phone  | (034) 434-9122, (034) 432-7196                      |
-| Email  | mayorggasataya@bacolodcity.gov.ph                   |
-| Office | City Mayor's Office, Bacolod City Government Center |
+📞 (034) 434-9122 / (034) 432-7196  
+✉️ mayorggasataya@bacolodcity.gov.ph  
+📍 City Mayor's Office, Government Center, Villamonte
+
+---
 
 ### Vice Mayor
 
 **Hon. Claudio "Jojo" Puentevella** — Presiding Officer, Sangguniang Panlungsod
 
-|        |                                                          |
-| ------ | -------------------------------------------------------- |
-| Phone  | (034) 703-1284                                           |
-| Office | Office of the Vice Mayor, Bacolod City Government Center |
+📞 (034) 703-1284  
+📍 Office of the Vice Mayor, Government Center
 
 ---
 
-## Legislative Branch (Sangguniang Panlungsod)
+## Legislative Branch
+
+### City Councilors (Sangguniang Panlungsod)
 
 | Councilor                  | Committee Chairmanships                              |
 | -------------------------- | ---------------------------------------------------- |
@@ -40,13 +40,17 @@
 | Hon. Celia Flor            |                                                      |
 | Hon. Psyche Marie "Pao" Sy |                                                      |
 
-**Secretary to the Sangguniang Panlungsod:** Atty. Vicente Petierre III  
-Phone: (034) 431-3603 | Email: sprecordsbacolod@gmail.com
+**SP Secretary:** Atty. Vicente Petierre III  
+📞 (034) 431-3603 | ✉️ sprecordsbacolod@gmail.com
 
 ---
 
 ## Congressional Representative
 
-**Hon. Alfredo "Albee" B. Benitez** — Representative, Bacolod City Lone District
+**Hon. Alfredo "Albee" B. Benitez** — Bacolod City Lone District
 
-Office: House of Representatives, Quezon City
+📍 House of Representatives, Quezon City
+
+---
+
+_Source: [bacolodcity.gov.ph](https://bacolodcity.gov.ph/city-councilors/)_
