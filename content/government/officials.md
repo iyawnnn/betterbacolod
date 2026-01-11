@@ -4,43 +4,49 @@
 
 ### Mayor
 
-**Hon. Greg Gasataya** - 44th Mayor of Bacolod City
+**Hon. Greg Gasataya** — 44th Mayor of Bacolod City
 
-- Email: mayorggasataya@bacolodcity.gov.ph
-- Office: City Mayor's Office, Bacolod City Government Center
+|        |                                                     |
+| ------ | --------------------------------------------------- |
+| Phone  | (034) 434-9122, (034) 432-7196                      |
+| Email  | mayorggasataya@bacolodcity.gov.ph                   |
+| Office | City Mayor's Office, Bacolod City Government Center |
 
 ### Vice Mayor
 
-**Hon. Claudio "Jojo" Puentevella**
+**Hon. Claudio "Jojo" Puentevella** — Presiding Officer, Sangguniang Panlungsod
 
-- Phone: (034) 703-1284
-- Office: Office of the Vice Mayor, Bacolod City Government Center
+|        |                                                          |
+| ------ | -------------------------------------------------------- |
+| Phone  | (034) 703-1284                                           |
+| Office | Office of the Vice Mayor, Bacolod City Government Center |
 
 ---
 
-## Legislative Branch
+## Legislative Branch (Sangguniang Panlungsod)
 
-### City Councilors (Sangguniang Panlungsod)
+| Councilor                  | Committee Chairmanships                              |
+| -------------------------- | ---------------------------------------------------- |
+| Hon. Atty. Caesar Distrito | Human Resource and Development                       |
+| Hon. Israel P. Salanga     | Government Assets                                    |
+| Hon. Em L. Ang             | Health and Sanitation; Culture and Arts              |
+| Hon. Jude Thaddeus Sayson  | Agriculture; Appropriation and Finance; Cooperatives |
+| Hon. Al Victor A. Espino   | Education; Laws and Good Governance; Urban Planning  |
+| Hon. Atty. Dindo C. Ramos  |                                                      |
+| Hon. Bobby Rojas           | Energy and Public Utilities; Trade and Commerce      |
+| Hon. Jason Villarosa       | Slaughterhouse/Veterinary; Environment and Ecology   |
+| Hon. Homer Bais            |                                                      |
+| Hon. Wilson Gamboa Jr.     |                                                      |
+| Hon. Celia Flor            |                                                      |
+| Hon. Psyche Marie "Pao" Sy |                                                      |
 
-| Councilor                 | Committee |
-| ------------------------- | --------- |
-| Hon. Caesar Distrito      |           |
-| Hon. Israel Salanga       |           |
-| Hon. Em Ang               |           |
-| Hon. Jude Thaddeus Sayson |           |
-| Hon. Al Victor Espino     |           |
-| Hon. Dindo Ramos          |           |
-| Hon. Bobby Rojas          |           |
-| Hon. Jason Villarosa      |           |
-| Hon. Homer Bais           |           |
-| Hon. Wilson Gamboa Jr.    |           |
-| Hon. Celia Flor           |           |
-| Hon. Pao Sy               |           |
+**Secretary to the Sangguniang Panlungsod:** Atty. Vicente Petierre III  
+Phone: (034) 431-3603 | Email: sprecordsbacolod@gmail.com
 
 ---
 
 ## Congressional Representative
 
-**Hon. Alfredo "Albee" B. Benitez** - Representative, Bacolod City Lone District
+**Hon. Alfredo "Albee" B. Benitez** — Representative, Bacolod City Lone District
 
-- Office: House of Representatives, Quezon City
+Office: House of Representatives, Quezon City
