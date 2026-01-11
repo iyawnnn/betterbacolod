@@ -1,0 +1,4 @@
+pages:
+  - name: 'All City Departments'
+    slug: 'government/departments/all'
+    description: 'Complete directory of city government offices'

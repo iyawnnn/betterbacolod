@@ -1,5 +1,8 @@
 import type { NavigationItem } from '../types';
-import { serviceCategories as servicesData } from './yamlLoader';
+import {
+  serviceCategories as servicesData,
+  governmentActivitCategories as governmentData,
+} from './yamlLoader';
 
 interface Subcategory {
   name: string;
@@ -23,14 +26,15 @@ export const mainNavigation: NavigationItem[] = [
   },
   {
     label: 'Government',
-    href: '/about',
-    children: [
-      { label: 'About', href: '/about/government' },
-      { label: 'History', href: '/about/history' },
-      { label: 'Map', href: '/philippines/map' },
-      { label: 'Hotlines', href: '/about/hotlines' },
-      { label: 'Holidays', href: '/philippines/holidays' },
-    ],
+    href: '/government',
+    children: (governmentData.categories as Category[]).map(category => ({
+      label: category.category,
+      href: `/government/${category.slug}`,
+    })),
+  },
+  {
+    label: 'Transparency',
+    href: '/transparency',
   },
 ];
 

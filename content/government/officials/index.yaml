@@ -1,0 +1,10 @@
+pages:
+  - name: 'Mayor & Vice Mayor'
+    slug: 'government/officials/mayor-vice-mayor'
+    description: 'The executive leaders of Bacolod City'
+  - name: 'City Councilors'
+    slug: 'government/officials/city-councilors'
+    description: 'The 12 members of the Sangguniang Panlungsod'
+  - name: 'Congressman'
+    slug: 'government/officials/congressman'
+    description: 'Representative to the House of Representatives'
