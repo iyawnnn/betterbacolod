@@ -2,6 +2,10 @@
 # This file contains all the pages/services available under the Education category
 
 pages:
+  - name: 'Schools in Bacolod City (Public & Private Directory)'
+    slug: 'schools-directory'
+    description: 'Complete list of public and private schools. Elementary, high school, and colleges with DepEd contact info.'
+
   - name: 'Daycare & Preschool Programs in Bacolod City'
     slug: 'enroll-children-in-lgu-daycare-or-preschool-programs'
     description: 'Free barangay daycare for ages 3-4 and public kindergarten. Requirements, enrollment process, and DSSD contact.'
