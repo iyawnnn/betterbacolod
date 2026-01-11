@@ -5,22 +5,13 @@ import { governmentActivitCategories } from '../data/yamlLoader';
 import * as LucideIcons from 'lucide-react';
 import SEO from '../components/SEO';
 import { Card, CardContent } from '../components/ui/Card';
-import ReactMarkdown from 'react-markdown';
-import remarkGfm from 'remark-gfm';
-import { createMarkdownComponents } from '../lib/markdownComponents';
-import { getTypographyTheme } from '../lib/typographyThemes';
 import { useState } from 'react';
 import OfficialsSection from '../components/government/OfficialsSection';
 import DepartmentsSection from '../components/government/DepartmentsSection';
-
-// Import markdown for barangays
-import barangaysContent from '../../content/government/barangays.md?raw';
+import BarangaysSection from '../components/government/BarangaysSection';
 
 const Government: React.FC = () => {
   const [activeSection, setActiveSection] = useState<string | null>(null);
-  const markdownComponents = createMarkdownComponents(
-    getTypographyTheme('default')
-  );
 
   const renderContent = () => {
     if (activeSection === 'officials') {
@@ -30,14 +21,7 @@ const Government: React.FC = () => {
       return <DepartmentsSection />;
     }
     if (activeSection === 'barangays') {
-      return (
-        <ReactMarkdown
-          remarkPlugins={[remarkGfm]}
-          components={markdownComponents}
-        >
-          {barangaysContent}
-        </ReactMarkdown>
-      );
+      return <BarangaysSection />;
     }
     return null;
   };
