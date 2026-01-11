@@ -8,7 +8,7 @@ pages:
 
   - name: 'Transport Permits & Franchise Registration'
     slug: 'apply-for-transport-permits-and-franchise-registration'
-    description: 'LTFRB franchise, Mayor's Permit for PUVs, and tricycle franchise for jeepneys, taxis, and public transport.'
+    description: "LTFRB franchise, Mayor's Permit for PUVs, and tricycle franchise for jeepneys, taxis, and public transport."
 
   - name: 'Traffic Violations & Penalties'
     slug: 'report-traffic-violations-and-check-penalties'
