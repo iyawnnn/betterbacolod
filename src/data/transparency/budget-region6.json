@@ -1,0 +1,14 @@
+{
+  "region": "Region VI (Western Visayas)",
+  "note": "Bacolod City is part of Region VI - Western Visayas",
+  "data": [
+    { "year": 2020, "gaa": 3778511000 },
+    { "year": 2021, "gaa": 91284321000 },
+    { "year": 2022, "gaa": 172504976000 },
+    { "year": 2023, "gaa": 169248150000 },
+    { "year": 2024, "gaa": 178350843000 },
+    { "year": 2025, "gaa": 192057536000 }
+  ],
+  "source": "Department of Budget and Management (DBM) via BetterGov.ph",
+  "lastUpdated": "2025-12-03"
+}
