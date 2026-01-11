@@ -11,6 +11,7 @@ interface Department {
 interface DepartmentGroup {
   id: string;
   title: string;
+  shortTitle: string;
   departments: Department[];
 }
 
@@ -18,6 +19,7 @@ const departmentGroups: DepartmentGroup[] = [
   {
     id: 'executive',
     title: 'Executive Offices',
+    shortTitle: 'Executive',
     departments: [
       {
         name: "City Mayor's Office",
@@ -42,6 +44,7 @@ const departmentGroups: DepartmentGroup[] = [
   {
     id: 'finance',
     title: 'Finance & Administration',
+    shortTitle: 'Finance',
     departments: [
       {
         name: 'City Treasurer',
@@ -84,6 +87,7 @@ const departmentGroups: DepartmentGroup[] = [
   {
     id: 'planning',
     title: 'Planning & Economic',
+    shortTitle: 'Planning',
     departments: [
       {
         name: 'City Planning (CPDO)',
@@ -106,6 +110,7 @@ const departmentGroups: DepartmentGroup[] = [
   {
     id: 'health',
     title: 'Health & Social',
+    shortTitle: 'Health',
     departments: [
       {
         name: 'City Health Office',
@@ -130,6 +135,7 @@ const departmentGroups: DepartmentGroup[] = [
   {
     id: 'infrastructure',
     title: 'Infrastructure & Environment',
+    shortTitle: 'Infra',
     departments: [
       {
         name: 'City Engineer (CEO)',
@@ -160,6 +166,7 @@ const departmentGroups: DepartmentGroup[] = [
   {
     id: 'safety',
     title: 'Public Safety',
+    shortTitle: 'Safety',
     departments: [
       {
         name: 'DRRMO',
@@ -183,6 +190,7 @@ const departmentGroups: DepartmentGroup[] = [
   {
     id: 'business',
     title: 'Business & Permits',
+    shortTitle: 'Business',
     departments: [
       {
         name: 'Business Permits (BPLO)',
@@ -200,6 +208,7 @@ const departmentGroups: DepartmentGroup[] = [
   {
     id: 'agriculture',
     title: 'Agriculture & Veterinary',
+    shortTitle: 'Agri',
     departments: [
       {
         name: 'City Agriculture',
@@ -217,6 +226,7 @@ const departmentGroups: DepartmentGroup[] = [
   {
     id: 'records',
     title: 'Records & Information',
+    shortTitle: 'Records',
     departments: [
       {
         name: 'Civil Registrar',
@@ -246,6 +256,7 @@ const departmentGroups: DepartmentGroup[] = [
   {
     id: 'housing',
     title: 'Housing & Community',
+    shortTitle: 'Housing',
     departments: [
       {
         name: 'Housing Authority (BHA)',
@@ -270,6 +281,7 @@ const departmentGroups: DepartmentGroup[] = [
   {
     id: 'education',
     title: 'Education & Youth',
+    shortTitle: 'Education',
     departments: [
       {
         name: 'Bacolod City College',
@@ -321,12 +333,32 @@ export default function DepartmentsSection() {
       const offsetTop = element.offsetTop - container.offsetTop;
       container.scrollTo({ top: offsetTop, behavior: 'smooth' });
     }
+    setActiveSection(id);
   };
 
   return (
-    <div className="flex gap-4 h-[600px]">
-      {/* Sidebar */}
-      <nav className="w-44 flex-shrink-0 border-r border-gray-200 pr-4 overflow-y-auto">
+    <div className="flex flex-col lg:flex-row gap-4 h-auto lg:h-[600px]">
+      {/* Mobile: Horizontal scrollable tabs */}
+      <nav className="lg:hidden overflow-x-auto pb-2 border-b border-gray-200 -mx-2 px-2">
+        <div className="flex gap-2 min-w-max">
+          {departmentGroups.map(group => (
+            <button
+              key={group.id}
+              onClick={() => scrollTo(group.id)}
+              className={`px-3 py-1.5 text-xs rounded-full whitespace-nowrap transition-colors ${
+                activeSection === group.id
+                  ? 'bg-primary-600 text-white'
+                  : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+              }`}
+            >
+              {group.shortTitle}
+            </button>
+          ))}
+        </div>
+      </nav>
+
+      {/* Desktop: Sidebar */}
+      <nav className="hidden lg:block w-44 flex-shrink-0 border-r border-gray-200 pr-4 overflow-y-auto">
         <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-3">
           Departments
         </p>
@@ -348,7 +380,10 @@ export default function DepartmentsSection() {
       </nav>
 
       {/* Scrollable Content */}
-      <div ref={contentRef} className="flex-1 overflow-y-auto pr-2 space-y-6">
+      <div
+        ref={contentRef}
+        className="flex-1 lg:overflow-y-auto pr-2 space-y-6"
+      >
         {departmentGroups.map(group => (
           <section key={group.id} id={group.id}>
             <h2 className="text-sm font-semibold text-gray-900 mb-3 pb-2 border-b border-gray-300 uppercase tracking-wide sticky top-0 bg-white">
