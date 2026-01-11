@@ -33,7 +33,7 @@ const Government: React.FC = () => {
         description="Learn about Bacolod City government - officials, departments, and barangays."
         keywords="government, city officials, departments, barangays, Bacolod City"
       />
-      <Section>
+      <Section className="min-h-[60vh]">
         <div className="text-center mb-10">
           <Heading level={2}>Bacolod City Government</Heading>
           <Text className="text-gray-600 max-w-2xl mx-auto">
