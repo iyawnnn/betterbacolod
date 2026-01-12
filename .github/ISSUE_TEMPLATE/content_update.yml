@@ -1,0 +1,35 @@
+name: Content Update
+description: Report outdated or incorrect information
+labels: ["content"]
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: What needs updating?
+      options:
+        - Service info (fees, requirements)
+        - Official/department contact
+        - Barangay info
+        - Missing service
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Current (incorrect) info
+      placeholder: What does the site currently say?
+    validations:
+      required: true
+  - type: textarea
+    id: correct
+    attributes:
+      label: Correct info
+      placeholder: What should it say? Include source if possible.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      placeholder: Where did you find the correct info?
