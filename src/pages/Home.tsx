@@ -8,8 +8,8 @@ const Home: React.FC = () => {
     <>
       <SEO
         title="Home"
-        description="Official website of your local government. Access government services, information, and resources."
-        keywords="government, local government, services, public services, civic services"
+        description="Community portal for Bacolod City government services, officials, departments, barangays, and transparency data. Find permits, hotlines, and more."
+        keywords="Bacolod City, government services, barangay, city hall, permits, civic tech"
       />
       <main className="flex-grow">
         <Hero />
