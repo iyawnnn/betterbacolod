@@ -71,12 +71,13 @@ betterbacolod/
 │   │   ├── home/         # Homepage sections
 │   │   ├── layout/       # Navbar, Footer, TopBanner
 │   │   ├── sections/     # Hero, etc.
+│   │   ├── transparency/ # Transparency data components
 │   │   └── ui/           # Reusable UI components
 │   ├── pages/            # Route pages
-│   ├── data/             # YAML data loaders
+│   ├── data/             # YAML/JSON data loaders
 │   ├── hooks/            # Custom React hooks
 │   ├── lib/              # Utilities & markdown
-│   └── i18n.ts           # Internationalization
+│   └── types/            # TypeScript types
 ├── content/
 │   ├── services/         # Service pages (markdown)
 │   └── government/       # Government info (markdown)
