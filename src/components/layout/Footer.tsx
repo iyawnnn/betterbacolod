@@ -1,4 +1,4 @@
-import { Facebook, Github } from 'lucide-react';
+import { Facebook, Github, MessageCircle } from 'lucide-react';
 import { footerNavigation } from '../../data/navigation';
 import { Link } from 'react-router-dom';
 
@@ -33,6 +33,14 @@ const Footer: React.FC = () => {
                   <Facebook className="h-4 w-4" />
                 </a>
               ))}
+              <a
+                href="https://discord.gg/EZkdJrhBYV"
+                className="p-2 bg-slate-800 rounded-lg text-slate-400 hover:text-white hover:bg-slate-700 transition-colors"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <MessageCircle className="h-4 w-4" />
+              </a>
               <a
                 href="https://github.com/betterbacolod/betterbacolod"
                 className="p-2 bg-slate-800 rounded-lg text-slate-400 hover:text-white hover:bg-slate-700 transition-colors"
