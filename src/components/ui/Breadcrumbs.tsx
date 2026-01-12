@@ -1,6 +1,6 @@
+import { ChevronRight, Home } from 'lucide-react';
 import React from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { ChevronRight, Home } from 'lucide-react';
 
 interface BreadcrumbItem {
   label: string;
@@ -28,7 +28,7 @@ const Breadcrumbs: React.FC<BreadcrumbsProps> = ({ items, className = '' }) => {
       // Convert segment to readable label
       const label = segment
         .split('-')
-        .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+        .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
         .join(' ');
 
       breadcrumbs.push({
@@ -49,17 +49,24 @@ const Breadcrumbs: React.FC<BreadcrumbsProps> = ({ items, className = '' }) => {
     >
       {breadcrumbItems.map((item, index) => (
         <React.Fragment key={index}>
-          {index === 0 && <Home className="h-4 w-4" />}
-          {index > 0 && <ChevronRight className="h-4 w-4 text-gray-400" />}
+          {index === 0 && <Home className="h-4 w-4 flex-shrink-0" />}
+          {index > 0 && (
+            <ChevronRight className="h-4 w-4 text-gray-400 flex-shrink-0" />
+          )}
           {item.href ? (
             <Link
               to={item.href}
-              className="hover:text-primary-600 transition-colors duration-200"
+              className="hover:text-primary-600 transition-colors duration-200 truncate max-w-[150px]"
+              title={item.label}
             >
               {item.label}
             </Link>
           ) : (
-            <span className="text-gray-900 font-medium" aria-current="page">
+            <span
+              className="text-gray-900 font-medium truncate max-w-[200px]"
+              title={item.label}
+              aria-current="page"
+            >
               {item.label}
             </span>
           )}
