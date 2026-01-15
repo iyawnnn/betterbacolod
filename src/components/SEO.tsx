@@ -19,7 +19,7 @@ export default function SEO({
   type = 'website',
   siteName = 'BetterBacolod',
 }: SEOProps) {
-  const defaultTitle = `${siteName} - Official Government Website`;
+  const defaultTitle = `BetterBacolod | Bacolod City Government Services`;
   const defaultDescription =
     import.meta.env.VITE_SITE_DESCRIPTION ||
     `Official website of ${siteName}. Access government services, information, and resources.`;
