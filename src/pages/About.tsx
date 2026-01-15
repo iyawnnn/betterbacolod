@@ -146,7 +146,7 @@ const About: React.FC = () => {
           <div className="bg-gray-50 border rounded-lg p-6">
             <div className="flex flex-col items-center text-center mb-4">
               <img
-                src="/B-Logo/BetterBacolod Icons_favicon tp.png"
+                src="/images/icons/B-Logo/BetterBacolod Icons_favicon tp.png"
                 alt="BetterBacolod"
                 className="w-24 h-24 mb-3"
               />

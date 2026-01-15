@@ -30,7 +30,7 @@ const Navbar: React.FC = () => {
           <div className="lg:w-48 flex-shrink-0">
             <Link to="/" className="flex items-center">
               <img
-                src="/nav-logo.png"
+                src="/images/logos/nav-logo.png"
                 alt="BetterBacolod"
                 className="h-12 w-auto"
               />

@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
           <div>
             <div className="flex items-center gap-3 mb-4">
               <img
-                src="/B-Logo/BetterBacolod Icons_favicon tp.png"
+                src="/images/icons/B-Logo/BetterBacolod Icons_favicon tp.png"
                 alt="BetterBacolod"
                 className="h-10 w-10"
               />
