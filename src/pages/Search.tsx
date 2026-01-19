@@ -147,13 +147,13 @@ const Search: React.FC = () => {
                     </span>
                     <div className="flex-1 min-w-0">
                       <div
-                        className="font-medium text-gray-900 [&_mark]:bg-yellow-200 [&_mark]:px-1 [&_mark]:rounded"
+                        className="font-medium text-gray-900 [&_mark]:bg-primary-100 [&_mark]:text-primary-700 [&_mark]:px-1 [&_mark]:rounded"
                         // biome-ignore lint/security/noDangerouslySetInnerHtml: Orama highlight output is safe
                         dangerouslySetInnerHTML={{ __html: highlightedTitle }}
                       />
                       {hit.document.description && (
                         <div
-                          className="text-sm text-gray-500 line-clamp-2 [&_mark]:bg-yellow-200 [&_mark]:px-1 [&_mark]:rounded"
+                          className="text-sm text-gray-500 [&_mark]:bg-primary-100 [&_mark]:text-primary-700 [&_mark]:px-1 [&_mark]:rounded"
                           // biome-ignore lint/security/noDangerouslySetInnerHtml: Orama highlight output is safe
                           dangerouslySetInnerHTML={{ __html: highlightedDesc }}
                         />

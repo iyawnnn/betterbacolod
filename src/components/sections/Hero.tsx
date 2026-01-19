@@ -1,3 +1,4 @@
+import { Highlight } from '@orama/highlight';
 import { search as oramaSearch } from '@orama/orama';
 import {
   Briefcase,
@@ -13,6 +14,8 @@ import { Link, useNavigate } from 'react-router-dom';
 import { getSearchDB, initializeSearch } from '../../lib/searchIndex';
 import { Heading } from '../ui/Heading';
 import { Text } from '../ui/Text';
+
+const highlighter = new Highlight();
 
 export default function Hero() {
   const navigate = useNavigate();
@@ -153,16 +156,25 @@ export default function Hero() {
                   />
                   {showDropdown && suggestions.length > 0 && (
                     <div className="absolute top-full left-0 right-0 mt-1 bg-white border rounded-lg shadow-lg z-50 overflow-hidden">
-                      {suggestions.map((item, i) => (
-                        <Link
-                          key={i}
-                          to={item.url}
-                          className="block px-4 py-2 text-sm text-gray-700 hover:bg-primary-50 hover:text-primary-700"
-                          onClick={() => setShowDropdown(false)}
-                        >
-                          {item.title}
-                        </Link>
-                      ))}
+                      {suggestions.map((item, i) => {
+                        const highlighted = highlighter.highlight(
+                          item.title,
+                          searchQuery,
+                        ).HTML;
+                        return (
+                          <Link
+                            key={i}
+                            to={item.url}
+                            className="block px-4 py-2 text-sm text-gray-700 hover:bg-primary-50 hover:text-primary-700 [&_mark]:bg-primary-100 [&_mark]:text-primary-700 [&_mark]:px-1 [&_mark]:rounded"
+                            onClick={() => setShowDropdown(false)}
+                          >
+                            <span
+                              // biome-ignore lint/security/noDangerouslySetInnerHtml: Orama highlight output is safe
+                              dangerouslySetInnerHTML={{ __html: highlighted }}
+                            />
+                          </Link>
+                        );
+                      })}
                     </div>
                   )}
                 </div>
