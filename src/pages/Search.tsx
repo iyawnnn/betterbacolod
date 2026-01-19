@@ -55,6 +55,11 @@ const Search: React.FC = () => {
           term: query,
           limit: 20,
           tolerance: 1,
+          boost: {
+            title: 2,
+            description: 1.5,
+          },
+          properties: ['title', 'description', 'content'],
         });
 
         setResults(searchResults.hits);
