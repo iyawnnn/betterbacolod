@@ -17,7 +17,7 @@ export async function initializeSearch() {
 
   searchDB = await create({ schema });
 
-  // Index service categories
+  // Index service categories (only parent, not subcategories to avoid duplicates)
   for (const cat of serviceCategories.categories) {
     await insert(searchDB, {
       title: cat.category,
@@ -27,20 +27,6 @@ export async function initializeSearch() {
       category: cat.category,
       type: 'service',
     });
-
-    // Index subcategories
-    if (cat.subcategories) {
-      for (const sub of cat.subcategories) {
-        await insert(searchDB, {
-          title: sub.name,
-          description: sub.description || '',
-          content: `${sub.name} ${sub.description || ''} ${cat.category}`,
-          url: `/services/${cat.slug}`,
-          category: cat.category,
-          type: 'service',
-        });
-      }
-    }
   }
 
   // Index main pages
