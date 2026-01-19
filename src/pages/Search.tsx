@@ -1,3 +1,4 @@
+import { highlight } from '@orama/highlight';
 import { search as oramaSearch } from '@orama/orama';
 import { FileText, Search as SearchIcon } from 'lucide-react';
 import { useEffect, useMemo, useState } from 'react';
@@ -123,35 +124,49 @@ const Search: React.FC = () => {
           )}
 
           <div className="space-y-2">
-            {results.map((hit, i) => (
-              <Link
-                key={i}
-                to={hit.document.url}
-                className="block p-4 bg-white border rounded-lg hover:border-primary-300 hover:bg-primary-50 transition-colors"
-              >
-                <div className="flex items-start gap-3">
-                  <span className="mt-1 text-gray-400">
-                    <FileText className="h-4 w-4" />
-                  </span>
-                  <div className="flex-1 min-w-0">
-                    <div className="font-medium text-gray-900">
-                      {hit.document.title}
-                    </div>
-                    {hit.document.description && (
-                      <div className="text-sm text-gray-500 line-clamp-2">
-                        {hit.document.description}
+            {results.map((hit, i) => {
+              const highlightedTitle = highlight(
+                hit.document.title,
+                query,
+              ).toString();
+              const highlightedDesc = hit.document.description
+                ? highlight(hit.document.description, query).toString()
+                : '';
+
+              return (
+                <Link
+                  key={i}
+                  to={hit.document.url}
+                  className="block p-4 bg-white border rounded-lg hover:border-primary-300 hover:bg-primary-50 transition-colors"
+                >
+                  <div className="flex items-start gap-3">
+                    <span className="mt-1 text-gray-400">
+                      <FileText className="h-4 w-4" />
+                    </span>
+                    <div className="flex-1 min-w-0">
+                      <div
+                        className="font-medium text-gray-900 [&_mark]:bg-yellow-200 [&_mark]:px-1 [&_mark]:rounded"
+                        // biome-ignore lint/security/noDangerouslySetInnerHtml: Orama highlight output is safe
+                        dangerouslySetInnerHTML={{ __html: highlightedTitle }}
+                      />
+                      {hit.document.description && (
+                        <div
+                          className="text-sm text-gray-500 line-clamp-2 [&_mark]:bg-yellow-200 [&_mark]:px-1 [&_mark]:rounded"
+                          // biome-ignore lint/security/noDangerouslySetInnerHtml: Orama highlight output is safe
+                          dangerouslySetInnerHTML={{ __html: highlightedDesc }}
+                        />
+                      )}
+                      <div className="text-xs text-gray-400 mt-1">
+                        {hit.document.category}
                       </div>
-                    )}
-                    <div className="text-xs text-gray-400 mt-1">
-                      {hit.document.category}
                     </div>
+                    <span className="text-xs px-2 py-1 bg-gray-100 text-gray-600 rounded flex-shrink-0">
+                      {hit.document.type}
+                    </span>
                   </div>
-                  <span className="text-xs px-2 py-1 bg-gray-100 text-gray-600 rounded flex-shrink-0">
-                    {hit.document.type}
-                  </span>
-                </div>
-              </Link>
-            ))}
+                </Link>
+              );
+            })}
           </div>
 
           {query && results.length === 0 && !loading && (
