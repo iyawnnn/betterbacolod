@@ -88,7 +88,7 @@ const Search: React.FC = () => {
         description="Search BetterBacolod for services and information"
         keywords="search, Bacolod, services, government"
       />
-      <Section className="min-h-[60vh]">
+      <Section className="min-h-[calc(100vh-200px)]">
         <div className="max-w-2xl mx-auto">
           <Heading level={2} className="text-center mb-6">
             Search
