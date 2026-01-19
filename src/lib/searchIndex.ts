@@ -1,5 +1,4 @@
-import { create, insert, type Orama } from '@orama/orama';
-import { serviceCategories } from '../data/yamlLoader';
+import { create, load, type Orama } from '@orama/orama';
 
 let searchDB: Orama<typeof schema> | null = null;
 let isInitializing = false;
@@ -19,7 +18,6 @@ export async function initializeSearch() {
 
   // Prevent concurrent initialization
   if (isInitializing) {
-    // Wait for initialization to complete
     while (isInitializing) {
       await new Promise((resolve) => setTimeout(resolve, 50));
     }
@@ -29,64 +27,22 @@ export async function initializeSearch() {
   isInitializing = true;
 
   try {
+    // Load pre-built index from JSON
+    const response = await fetch('/search-index.json');
+    const indexData = await response.json();
+
+    // Create empty DB with schema
     searchDB = await create({ schema });
 
-    // Index service categories (only parent, not subcategories to avoid duplicates)
-    for (const cat of serviceCategories.categories) {
-      await insert(searchDB, {
-        title: cat.category,
-        description: cat.description,
-        content: `${cat.category} ${cat.description}`,
-        url: `/services/${cat.slug}`,
-        category: cat.category,
-        type: 'service',
-      });
-    }
+    // Restore from saved index
+    await load(searchDB, indexData);
 
-    // Index main pages
-    const pages = [
-      {
-        title: 'City Officials',
-        description: 'Mayor, Vice Mayor, Congressman, City Councilors',
-        content:
-          'mayor vice mayor councilor officials government greg gasataya claudio puentevella albee benitez',
-        url: '/government',
-        category: 'Government',
-      },
-      {
-        title: 'City Departments',
-        description:
-          '35 departments including City Health, Engineering, Treasury',
-        content:
-          'department office city hall treasury health engineering bplo peso civil registry',
-        url: '/government',
-        category: 'Government',
-      },
-      {
-        title: 'Barangays',
-        description: '61 barangays with captain contact information',
-        content:
-          'barangay captain brgy village alijis banago bata mandalagan singcang taculing tangub villamonte',
-        url: '/government',
-        category: 'Government',
-      },
-      {
-        title: 'Transparency',
-        description: 'Flood control projects, budget, procurement data',
-        content:
-          'flood drainage dpwh infrastructure project budget gaa appropriation spending procurement bid philgeps',
-        url: '/transparency',
-        category: 'Transparency',
-      },
-    ];
-
-    for (const page of pages) {
-      await insert(searchDB, {
-        ...page,
-        type: 'page',
-      });
-    }
-
+    console.log('✅ Search index loaded');
+    return searchDB;
+  } catch (err) {
+    console.error('Failed to load search index:', err);
+    // Fallback: create empty DB
+    searchDB = await create({ schema });
     return searchDB;
   } finally {
     isInitializing = false;

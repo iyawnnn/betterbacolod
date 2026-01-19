@@ -15,7 +15,7 @@ BetterBacolod makes government information accessible. We compile publicly avail
 - 📋 45+ government services with requirements & fees
 - 👥 City officials, departments & 61 barangays
 - 📊 Transparency data (flood control, budget, procurement)
-- 🔍 Search across all content
+- 🔍 Full-text search powered by Orama (typo-tolerant, instant results)
 - 📱 Mobile responsive
 
 > ⚠️ **Not an official government website.** For official transactions, visit [bacolodcity.gov.ph](https://bacolodcity.gov.ph)
